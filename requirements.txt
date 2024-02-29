@@ -2,8 +2,8 @@
 # Este é um exemplo de arquivo requirements.txt
 
 # Dependências principais
-requests==2.26.0
-numpy==1.21.3
+requests==2.31.0
+numpy==1.22.0
 pandas==1.3.3
 pytest==6.2.5  # Dependência do pytest
 
