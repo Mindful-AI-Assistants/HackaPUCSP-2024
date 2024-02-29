@@ -11,6 +11,3 @@ pytest==6.2.5  # Dependência do pytest
 beautifulsoup4==4.10.0
 matplotlib==3.4.3
 
-# Caminho do executável pytest (substitua pelo caminho correto no seu sistema)
-# Certifique-se de que o pytest esteja instalado no ambiente virtual
-# Exemplo: /caminho/para/ambiente_virtual/bin/pytest
