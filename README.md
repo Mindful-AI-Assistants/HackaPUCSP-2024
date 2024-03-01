@@ -26,9 +26,13 @@ Este projeto será avaliado com base no processo, desempenho, criatividade da so
 
 ## 📈 Acesso aos Links com os Resultados do Projeto
 
-[Relatório - HACKAPU-CSP - Team 5](https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/blob/ce085344cc355a47ff9c286cf28784ae6ea6fe3c/Resultados/relato%CC%81rio%20hackapucsp_Grupo_5.pdf)
+ <br>
+
+📝 [Relatório - HACKAPU-CSP - Team 5](https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/blob/ce085344cc355a47ff9c286cf28784ae6ea6fe3c/Resultados/relato%CC%81rio%20hackapucsp_Grupo_5.pdf)
 
 🐍 [Código Python - HACKAPU-CSP](https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/blob/a541669b14ed26160b1dbf07a64c421e36ec4a1e/Resultados/hackaPUCSP.py)
+
+ <br>
 
 
 ## 👥 Our Team - Group 5:
