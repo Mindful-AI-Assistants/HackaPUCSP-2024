@@ -35,7 +35,7 @@ Este projeto será avaliado com base no processo, desempenho, criatividade da so
 - Fabiana Campanari - 1° semestre
 - Gustavo Muriano - 1° semestre
 - Henrique Araujo - 3° semestre
-- Juliana Soares - 3° semestre
+- [Juliana Soares](https://github.com/julianamiranda1) - 3° semestre
 - Leonardo Xerez - 1° semestre
 - Luan Fabiano - 1° semestre
 - Pedro Gallego - 1° semestre
