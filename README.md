@@ -40,14 +40,14 @@ Este projeto será avaliado com base no processo, desempenho, criatividade da so
 - [Bárbara Melo](https://github.com/babisxs23) - 3° semestre
 - [Fabiana Campanari](https://github.com/FabianaCampanari) - 1° semestre
 - Gustavo Muriano - 1° semestre
-- Henrique Araujo - 3° semestre
+- [Henrique Araujo](https://github.com/skRichsk) - 3° semestre
 - [Juliana Soares](https://github.com/julianamiranda1) - 3° semestre
 - Leonardo Xerez - 1° semestre
 - Luan Fabiano - 1° semestre
 - Pedro Gallego - 1° semestre
 - [Rebecca Campos](https://github.com/becamparezzo) - 3° semestre
 
- #
+ 
 
 ### <p align="center"> [![Sponsor MindfulAI Copilots & Bots](https://img.shields.io/badge/Sponsor-MindfulAI%20Copilots%20%26%20Bots-brightgreen?logo=GitHub)](https://github.com/sponsors/MindfulAI-Copilots-Bots)  
 
