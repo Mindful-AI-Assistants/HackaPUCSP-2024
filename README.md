@@ -3,6 +3,11 @@
  #  <p align="center"> 🎉 HACKAPUC-SP
  #### <p align="center"> 📅 2ª edição | 2024
 
+ <br>
+
+ # <p align="center"> [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml)  [![🐍 Pyyhon](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml)  
+
+
 <br>
 
 ## 💡 Motivação
