@@ -32,7 +32,7 @@ Este projeto será avaliado com base no processo, desempenho, criatividade da so
 ## 👥 Our Team - Group 5:
 
 - Bárbara Melo - 3° semestre
-- Fabiana Campanari - 1° semestre
+- [Fabiana Campanari](https://github.com/FabianaCampanari) - 1° semestre
 - Gustavo Muriano - 1° semestre
 - Henrique Araujo - 3° semestre
 - [Juliana Soares](https://github.com/julianamiranda1) - 3° semestre
