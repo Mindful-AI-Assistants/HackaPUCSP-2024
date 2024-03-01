@@ -34,7 +34,6 @@ Este projeto será avaliado com base no processo, desempenho, criatividade da so
 
  <br>
 
-
 ## 👥 Our Team - Group 5:
 
 - [Bárbara Melo](https://github.com/babisxs23) - 3° semestre
@@ -46,7 +45,6 @@ Este projeto será avaliado com base no processo, desempenho, criatividade da so
 - [Luan Fabiano](https://github.com/LuanFabiano28) - 1° semestre
 - Pedro Gallego - 1° semestre
 - [Rebecca Campos](https://github.com/becamparezzo) - 3° semestre
-
 
 #
 
