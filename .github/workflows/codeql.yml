@@ -22,3 +22,4 @@ jobs:
         stale-pr-label: 'no-pr-activity'
         days-before-stale: 60
         days-before-close: 7
+        
