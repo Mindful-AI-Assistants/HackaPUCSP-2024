@@ -9,6 +9,10 @@
 Este projeto se concentra na pesquisa universitária sobre os Objetivos de Desenvolvimento Sustentável (ODS), visando promover soluções inovadoras para desafios globais.
 
 
+## 📚 TEDE
+O TEDE é uma plataforma digital que abriga trabalhos acadêmicos da PUCSP. Para visitar o site, acesse tede.pucsp.br.
+
+
 
 
 
