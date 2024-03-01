@@ -47,10 +47,10 @@ Este projeto será avaliado com base no processo, desempenho, criatividade da so
 - Pedro Gallego - 1° semestre
 - [Rebecca Campos](https://github.com/becamparezzo) - 3° semestre
 
- 
+
+#
 
 ### <p align="center"> [![Sponsor MindfulAI Copilots & Bots](https://img.shields.io/badge/Sponsor-MindfulAI%20Copilots%20%26%20Bots-brightgreen?logo=GitHub)](https://github.com/sponsors/MindfulAI-Copilots-Bots)  
-
 
 #
 
