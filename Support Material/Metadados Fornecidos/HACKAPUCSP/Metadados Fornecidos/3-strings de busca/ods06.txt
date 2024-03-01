@@ -1,0 +1,90 @@
+TITLE-ABS-KEY (
+    ( {seguro} 
+        E ( {acesso à água} OU {água potável} ) 
+    ) 
+    OU ( {limpa} 
+        E ( {água potável} OU {fonte de água} ) 
+    ) 
+    OU ( {água} 
+        E ( 
+            {saneamento e higiene} 
+            OU {saneamento e higiene} 
+            OU {qualidade} 
+            OU {recurso}
+            E (
+                {disponibilidade de água} 
+                OU {eficiência do uso da água} 
+                OU {abastecimento de água} 
+                OU {água potável} 
+                OU { banheiro higiênico} 
+                OU {banheiros higiênicos} 
+                OU {membrana anti-incrustante} 
+                OU {membranas anti-incrustantes} 
+                OU {gestão da água} 
+                OU {toxicologia aquática} 
+                OU {toxicologia da água} 
+                OU { ecotoxicologia aquática} 
+                OU {ecotoxicologia da água} 
+            )
+        ) 
+    ) 
+    OU ( {água doce/fresca} 
+        E {qualidade da água} 
+        E ( 
+            {poluente} 
+            OU {poluição} 
+            OU contamina* 
+        ) 
+    ) 
+    OU ( {água doce/fresca} 
+        E ( 
+            { segurança hídrica} 
+            OU {escassez de água} 
+            OU ( {água residual} E “tratamento”) 
+            OU ( {água residual} E “tratamento”) 
+            OU {conservação da água} 
+            OU {pegada hídrica} 
+            OU {infraestrutura hídrica} 
+            OU {poluição da água} 
+            OU {purificação da água} 
+            OU {uso da água} 
+            OU {usos da água} 
+            OU saneamento* 
+            OU esgoto* 
+        ) 
+    )
+    OU ( {água} 
+        E {ecossistema} 
+        E ( 
+            {proteção de} 
+            OU {disruptor endócrino } 
+            OU {disruptores endócrinos} 
+        ) 
+        E NOT {marinhos} 
+    ) 
+    OU ( {água} 
+        E {gestão da água} 
+        E ( 
+            {remediação da poluição} 
+            OU {remoção de poluentes}
+        )
+    ) 
+    OU ( {água subterrânea} 
+        E {água doce} 
+    ) 
+    OU ( 
+        ( {poluição da água} OU {poluente da água} ) 
+        E ( 
+            ( {água residual} E {tratamento}) 
+            OU ( {água residual} E {tratamento})
+        )
+    )
+    OU {disponibilidade de água doce} 
+    OU {escassez de água} 
+    OU {fecalismo a céu aberto} 
+    OU {água azul} 
+    OU {água verde} 
+    OU {água cinza} 
+    OU {água negra} 
+) 
+E NÃO {estudo da carga global de doenças}
