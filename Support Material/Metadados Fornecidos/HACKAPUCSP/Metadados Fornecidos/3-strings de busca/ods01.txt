@@ -1,0 +1,28 @@
+TITLE-ABS-KEY ( 
+    ( 
+        {extrema pobreza} 
+        OU {alívio da pobreza} 
+        OU {erradicação da pobreza} 
+        OU {redução da pobreza} 
+        OU {linha internacional de pobreza} 
+        OU ( {ajuda financeira} E {pobreza} ) 
+        OU ( {ajuda financeira} E ({pobre} OU {pobres}) ) 
+        OU ( {ajuda financeira} E {divisão norte-sul} ) 
+        OU ( {desenvolvimento financeiro} E {pobreza} ) 
+        OU {empoderamento financeiro} 
+        OU {efeito sobre a distribuição/efeito distributivo} 
+        OU {efeitos sobre a distribuição/efeitos distributivos} 
+        OU {trabalho infantil} 
+        OU {ajuda ao desenvolvimento} 
+        OU {proteção social} 
+        OU {sistema de proteção social} 
+        OU ( {proteção social} E acesso ) 
+        OU {microfinanc*} 
+        OU {resiliência dos pobres} 
+        OU ( {rede de segurança} E ( {pobre/s} OU {vulnerável/is} ) ) 
+        OU ( {recurso econômico} E acesso ) 
+        OU ( {recursos econômicos} E acesso ) 
+        OU {banco de alimentos} 
+        OU {bancos de alimentos} 
+    )
+)

@@ -1,0 +1,90 @@
+TITLE-ABS-KEY ( 
+    (
+        {ação climática} 
+        OU {adaptação climática} 
+        OU {mudança climática} 
+        OU {capitalismo climático} 
+        OU {ipcc} 
+        OU {efeito climático} 
+        OU {equidade climática} 
+        OU {feedback climático} 
+        OU {finanças climáticas} 
+        OU {financiamento da mudança climática} 
+        OU {imposição do clima} 
+        OU {governança climática} 
+        OU {impacto climático} 
+        OU {investimento climático} 
+        OU {justiça climática} 
+        OU {mitigação climática} 
+        OU {modelo climático} 
+        OU {modelos climáticos} 
+        OU {modelagem climática} 
+        OU {política climática} 
+        OU {políticas climáticas} 
+        OU {risco climático} 
+        OU {riscos climáticos} 
+        OU {serviços climáticos} 
+        OU {serviço climático} 
+        OU {previsão climática} 
+        OU {previsões climáticas} 
+        OU {sinal climático} 
+        OU {sinais climáticos} 
+        OU {ponto de inflexão climática} 
+        OU {variação climática} 
+        OU {variações climáticas} 
+        OU ecoclimatologia 
+        OU {Fundo Verde do/para o Clima} 
+        OU {clima regional} 
+        OU {climas regionais} 
+        OU {clima urbano} 
+        OU {climas urbanos} 
+        OU (
+            {clima} 
+            E (
+                {gestão adaptativa} 
+                OU {conscientização} 
+                OU {bioeconomia} 
+                OU {carbono} 
+                OU {tomada de decisão} 
+                OU {redução do risco de desastres} 
+                OU {educação ambiental} 
+                OU {educação para o desenvolvimento sustentável} 
+                OU {conservação de energia/energética} 
+                OU {emissão*} 
+                OU {extremo} 
+                OU {cadeia alimentar} 
+                OU {cadeias alimentares} 
+                OU {estrutura} 
+                OU {perigo*} 
+                OU {ilha*} 
+                OU {uso da terra} 
+                OU {megacidade*} 
+                OU {consumo} 
+                OU {produção} 
+                OU {pequenas ilhas em desenvolvimento} 
+                OU {antropoceno} 
+                OU {atmosfera*} 
+                OU {mecanismo de desenvolvimento limpo} 
+                OU {recuo das geleiras} 
+                OU {aquecimento} 
+                OU {estufa} 
+                OU {interação gelo-oceano} 
+                OU {interações gelo-oceano} 
+                OU {ciclo do nitrogênio} 
+                OU {ciclos do nitrogênio} 
+                OU {acidificação dos oceanos} 
+                OU {forçante radiativa} 
+                OU {gelo marinho} 
+                OU {nível do mar} 
+                OU {níveis do mar} 
+                OU {expansão térmica} 
+                OU {unfccc} 
+                OU {ozônio} 
+            )
+        )
+    )
+    E NÃO (
+        {droga} 
+        OU {geomorfologia}
+    )
+)
