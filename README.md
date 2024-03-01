@@ -1,6 +1,6 @@
 
  
- #  <p align="center"> 🎉 HACKAPUCSP
+ #  <p align="center"> 🎉 HACKAPUC-SP
  #### <p align="center"> 📅 2ª edição | 2024
 
 <br>
