@@ -18,8 +18,8 @@ Os dados foram extraídos do TEDE e incluem títulos, resumos, palavras-chave e 
 ## 🔍 Strings de Busca
 As strings de busca são ferramentas de filtragem que ajudam a identificar e classificar textos acadêmicos em relação aos ODS.
 
-
-
+## 🕵️‍♀️ Anonimização
+Os dados foram coletados do TEDE com informações pessoais removidas para garantir a privacidade.
 
 
 
