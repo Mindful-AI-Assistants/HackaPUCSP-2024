@@ -26,7 +26,7 @@ Este projeto será avaliado com base no processo, desempenho, criatividade da so
 
 ## 📈 Acesso aos Links com os Resultados do Projeto
 
- <br>
+ <br><br>
 
 📝 [Relatório - HACKAPU-CSP - Team 5](https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/blob/ce085344cc355a47ff9c286cf28784ae6ea6fe3c/Resultados/relato%CC%81rio%20hackapucsp_Grupo_5.pdf)
 
