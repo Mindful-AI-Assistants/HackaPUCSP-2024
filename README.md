@@ -12,6 +12,9 @@ Este projeto se concentra na pesquisa universitária sobre os Objetivos de Desen
 ## 📚 TEDE
 O TEDE é uma plataforma digital que abriga trabalhos acadêmicos da PUCSP. Para visitar o site, acesse tede.pucsp.br.
 
+## 📊 Dados
+Os dados foram extraídos do TEDE e incluem títulos, resumos, palavras-chave e outros metadados de trabalhos acadêmicos.
+
 
 
 
