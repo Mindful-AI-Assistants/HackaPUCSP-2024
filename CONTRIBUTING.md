@@ -1,5 +1,4 @@
 
-
 <h2>How to Contribute</h2>
 
 <ol>
