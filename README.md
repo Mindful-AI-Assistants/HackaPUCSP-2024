@@ -25,7 +25,7 @@ Os dados foram coletados do TEDE com informações pessoais removidas para garan
 Este projeto será avaliado com base no processo, desempenho, criatividade da solução, descobertas e habilidades de comunicação e apresentação.
 
 ## 📈 Resultados do Projeto
-*Esta seção será atualizada com os resultados do projeto após a conclusão do hackathon.*
+
 
 
 
@@ -40,16 +40,6 @@ Este projeto será avaliado com base no processo, desempenho, criatividade da so
 - Luan Fabiano - 1° semestre
 - Pedro Gallego - 1° semestre
 - [Rebecca Campos](https://github.com/becamparezzo) - 3° semestre
-
-
-
-
-
-
-
-
-
-
 
 
 #
