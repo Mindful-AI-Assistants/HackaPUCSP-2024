@@ -26,6 +26,8 @@ Este projeto será avaliado com base no processo, desempenho, criatividade da so
 
 ## 📈 Acesso aos Links com os Resultados do Projeto
 
+https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/blob/a541669b14ed26160b1dbf07a64c421e36ec4a1e/Resultados/hackaPUCSP.py
+
 
 
 
