@@ -4,3 +4,5 @@ steps:
   with:
     python-version: '3.10' 
 - run: python my_script.py
+
+
