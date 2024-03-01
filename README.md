@@ -40,7 +40,7 @@ Este projeto será avaliado com base no processo, desempenho, criatividade da so
 - Luan Fabiano - 1° semestre
 - Pedro Gallego - 1° semestre
 - Rebecca Campos - 3° semestre
-- Tiago Miguel - 5º semestre
+
 
 
 
