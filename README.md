@@ -34,7 +34,7 @@ Este projeto será avaliado com base no processo, desempenho, criatividade da so
 
  <br>
 
-## 👥 Our Team - Group 5:
+## :octocat: Our Team - Group 5:
 
 - [Bárbara Melo](https://github.com/babisxs23) - 3° semestre
 - [Fabiana Campanari](https://github.com/FabianaCampanari) - 1° semestre
