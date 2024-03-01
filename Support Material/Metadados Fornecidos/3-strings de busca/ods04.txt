@@ -1,0 +1,57 @@
+TITLE-ABS-KEY ( 
+    ( 
+        {escola} 
+        OU {educação} 
+        OU {educacional} 
+    ) 
+    E ( 
+        {frequência escolar} 
+        OU {matrícula escolar} 
+        OU {educação inclusiva} 
+        OU {desigualdade educacional} 
+        OU {qualidade educacional} 
+        OU {matrícula escolar} 
+        OU {matrícula educacional} 
+        OU {alfabetização de adultos} 
+        OU {taxa de numeramento} 
+        OU {ambiente educacional} 
+        OU {acesso educacional} 
+        OU ( {ajuda ao desenvolvimento} E {treinamento de professores} ) 
+        OU {educação infantil} 
+        OU {educação básica} 
+        OU {acessível educação} 
+        OU {auxílio financeiro educacional} 
+        OU {segurança escolar} 
+        OU {segurança na escola} 
+        OU ( {oportunidades de aprendizado} E ( {disparidades de gênero} OU empoderamento ) ) 
+        OU ( {oportunidade de aprendizado} E ( {disparidades de gênero} OU empoderamento ) ) 
+        OU {empoderamento da juventude} 
+        OU {empoderamento das mulheres} 
+        OU {oportunidades iguais} 
+        OU {trabalho infantil} 
+        OU {discriminatório} 
+        OU {desigualdade educacional} 
+        OU {lacuna educacional} 
+        OU ( {armadilha da pobreza} E {escolaridade} ) 
+        OU {necessidades de educação especial} 
+        OU {sistema educacional inclusivo} 
+        OU ( {escolarização} E ( {disparidades de gênero} OU {disparidades étnicas} OU {disparidades raciais} ) ) 
+        OU {exclusão educacional} 
+        OU {abandono escolar} 
+        OU {cidadania global} 
+        OU {educação para o desenvolvimento sustentável} 
+        OU {educação ambiental} 
+        OU {política educacional} 
+        OU {políticas educacionais} 
+        OU {educação internacional} 
+        OU {reforma da educação} 
+        OU ( {reforma educacional} E {países em desenvolvimento} ) 
+        OU {governança educacional} 
+        OU ( {países em desenvolvimento} E {efeitos escolares} ) 
+        OU {despesas com educação} 
+        OU {ajuda externa} 
+        OU ( {treinamento de professores} E {países em desenvolvimento} ) 
+        OU {desgaste de professores} 
+    ) 
+    E NÃO {alfabetização em saúde} 
+)

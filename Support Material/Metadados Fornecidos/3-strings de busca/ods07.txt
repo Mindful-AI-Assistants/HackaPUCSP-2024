@@ -1,0 +1,58 @@
+TITLE-ABS-KEY ( 
+    {eficiência energética} 
+    OU {consumo de energia} 
+    OU {transição energética} 
+    OU {tecnologia de energia limpa} 
+    OU {equidade energética} 
+    OU {justiça energética} 
+    OU {pobreza energética} 
+    OU {política energética} 
+    OU renovável* 
+    OU {sociedade de 2000 Watts} 
+    OU {micro-rede inteligente} 
+    OU {rede inteligente} 
+    OU {microrrede inteligente} 
+    OU {micro-redes inteligentes} 
+    OU {redes inteligentes} 
+    OU {microrredes inteligentes} 
+    OU {medidor inteligente} 
+    OU {medidores inteligentes} 
+    OU {eletricidade acessível} 
+    OU {consumo de eletricidade} 
+    OU {eletricidade confiável} 
+    OU {combustível limpo} 
+    OU {combustível limpo para cozinhar} 
+    OU {pobreza de combustível} 
+    OU energiewende 
+    OU {avaliação do ciclo de vida} 
+    OU {avaliações do ciclo de vida} 
+    OU ( {fotoquímica} E {energia renovável} ) 
+    OU fotovoltaica 
+    OU {divisão fotocatalítica da água} 
+    OU {produção de hidrogênio} 
+    OU {divisão da água} 
+    OU {baterias de íon-lítio} 
+    OU {bateria de íon-lítio} 
+    OU {rede de calor} 
+    OU {calor distrital} 
+    OU {aquecimento distrital} 
+    OU {consumo de energia residencial} 
+    OU {consumo de energia doméstica} 
+    OU {segurança energética} 
+    OU {eletrificação rural} 
+    OU {escada de energia} 
+    OU {acesso à energia} 
+    OU {conservação de energia} 
+    OU {sociedade de baixo carbono} 
+    OU {sistema híbrido de energia renovável} 
+    OU {sistemas híbridos de energia renovável} 
+    OU {troca de combustível} 
+    OU ( {ajuda externa ao/para o desenvolvimento} E {energia renovável} ) 
+    OU {governança energética} 
+    OU ( {assistência oficial ao desenvolvimento} E {eletricidade} ) 
+    OU ( {desenvolvimento energético} E {países em desenvolvimento} ) 
+    E NÃO ( 
+        {rede de sensores sem fio} 
+        OU {redes de sensores sem fio} 
+    ) 
+)

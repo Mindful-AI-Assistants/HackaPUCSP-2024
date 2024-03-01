@@ -1,0 +1,82 @@
+TITLE-ABS-KEY (
+    (
+        {crescimento econômico}
+        OU {política de desenvolvimento econômico}
+        OU {política de emprego}
+        OU {crescimento econômico inclusivo}
+        OU {crescimento sustentável}
+        OU {desenvolvimento econômico}
+        OU {globalização econômica}
+        OU {produtividade econômica}
+        OU {economia de baixo carbono}
+        OU {crescimento inclusivo}
+        OU microcrédito*
+        OU {renda igual}
+        OU {salários iguais}
+        OU {emprego decente}
+        OU {empregos decentes}
+        OU {emprego de qualidade}
+        OU {empregos de qualidade}
+        OU {criação de emprego}
+        OU {pleno emprego}
+        OU {proteção do emprego}
+        OU {emprego informal}
+        OU {emprego precário}
+        OU {desemprego}
+        OU {trabalho precário}
+        OU {trabalhos precários}
+        OU microempresa*
+        OU {pequena empresa}
+        OU {média empresa}
+        OU {pequenas empresas}
+        OU {médias empresas}
+        OU {pequeno/s empresário/s}
+        OU {empresário/s iniciante/s}
+        OU {médio/s empresário/s}
+        OU {pequeno/s empreendedor/es}
+        OU {médios empreendedor/es}
+        OU {empreendedor/es iniciante/s}
+        OU {empreendedorismo social}
+        OU {ambiente de trabalho seguro}
+        OU {instituição do mercado de trabalho}
+        OU {instituições do mercado de trabalho}
+        OU {trabalho forçado}
+        OU {trabalho infantil}
+        OU {direito trabalhista}
+        OU {direitos trabalhistas}
+        OU {escravidão moderna}
+        OU {tráfico de pessoas}
+        OU {criança-soldado}
+        OU {crianças-soldado}
+        OU {empregos globais}
+        OU {salário mínimo}
+        OU {economia circular}
+        OU {economia inclusiva}
+        OU {economia rural}
+        OU {Investimento de Desenvolvimento Estrangeiro}
+        OU {Ajuda ao Comércio}
+        OU {sindicatos}
+        OU {sindicato}
+        OU {trabalhadores pobres}
+        OU {Não está em educação, emprego ou treinamento}
+        OU {compensação de carbono}
+        OU {compensações de carbono}
+        OU {projeto de compensação}
+        OU {projetos de compensação}
+        OU {diversificação econômica}
+        OU {pegada material}
+        OU {eficiência de recursos}
+        OU ( {berço ao berço} E {economia} )
+        OU {dissociação econômica}
+        OU {disparidades do mercado de trabalho}
+        OU {turismo sustentável}
+        OU {ecoturismo}
+        OU {turismo baseado na comunidade}
+        OU {emprego no turismo}
+        OU {política de turismo sustentável}
+        OU {acesso financeiro}
+        OU {inclusão financeira}
+        OU {acesso a serviços bancários}
+    ) 
+    E NÃO {saúde} 
+)

@@ -1,0 +1,67 @@
+TITLE-ABS-KEY 
+(
+    {poluição ambiental} OU 
+    {resíduos perigosos} OU 
+    {produto químico perigoso} OU 
+    {produtos químicos perigosos} OU 
+    {produto químico tóxico} OU 
+    {produtos químicos tóxicos} OU 
+    {poluição química} OU 
+    {destruição do ozônio} OU 
+    {poluição por pesticidas} OU 
+    {estresse de pesticidas} OU 
+    {redução de pesticidas} OU 
+    {avaliação do ciclo de vida} OU 
+    {análise do ciclo de vida} OU 
+    {análises do ciclo de vida} OU 
+    {economia de baixo carbono} OU 
+    {pegada ambiental} OU 
+    {pegada material} OU 
+    {eficiência da colheita} OU 
+    {resíduos sólidos} OU 
+    {geração de resíduos} OU 
+    {responsabilidade social corporativa} OU 
+    {sustentabilidade corporativa} OU 
+    {comportamento do consumidor} OU 
+    {comportamentos do consumidor} OU 
+    {reciclagem de resíduos} OU 
+    {reciclagem de recursos} OU 
+    {reutilização/reuso de recursos} OU 
+    {economia de base biológica} OU 
+    {resíduo zero} OU 
+    {rótulo de sustentabilidade} OU 
+    {extração de recurso global} OU 
+    {contabilidade do fluxo de materiais} OU 
+    {metabolismo social} OU 
+    {derramamento de alimentos} OU 
+    {derramamento de recursos} OU 
+    {eficiência de recursos} OU 
+    {consumo sustentável de alimentos} OU 
+    {consumo verde} OU 
+    {cadeia de suprimentos sustentável} OU 
+    {economia circular} OU 
+    {do berço ao berço} OU 
+    {compras/aquisições sustentáveis} OU 
+    {turismo sustentável} OU 
+    {subsídios a combustíveis fósseis} OU 
+    {gastos com combustíveis fósseis} OU 
+    {rótulo de sustentabilidade} OU 
+    {rotulagem de sustentabilidade} 
+    OU (
+        {consumo} E 
+        ({uso de recursos} OU derramamento)
+    ) 
+    OU (
+        {produção} E 
+        ({uso de recursos} OU derramamento)
+    ) 
+    E NÃO (
+        {rede de sensores sem fio} OU 
+        {redes de sensores sem fio} OU 
+        {rede sem fio} OU 
+        {redes sem fio} OU 
+        {sem fio} OU 
+        {doença} OU 
+        {astrofísica}
+    )
+)

@@ -1,0 +1,84 @@
+TITLE-ABS-KEY (
+    (
+        {inocência presumida} 
+        OU {falsa confissão} 
+        OU {conflito armado} 
+        OU {conflitos armados} 
+        OU {conflito civil} 
+        OU {conflitos civis} 
+        OU ( {guerra} E ( {conflito} OU {guerra} OU {democracia} OU {Convenção de Genebra} OU {tratado} OU {paz} ) ) 
+        OU {manutenção da paz} 
+        OU ( {corrupção} E ( {instituição} OU {funcionário público} OU {governo} OU {suborno} OU {conflito} ) ) 
+        OU {crime} 
+        OU {crimes} 
+        OU {criminoso} 
+        OU {déficit democrático} 
+        OU ( {democratização} E ({institucional} OU {conflito} OU {tomada de decisão} OU {sociedade} OU {política} OU {ajuda financeira}) )
+        OU {conflito étnico} 
+        OU {conflitos étnicos} 
+        OU {exoneração} 
+        OU {genocídio*} 
+        OU {homicídio*} 
+        OU {assassinato*} 
+        OU {tráfico humano} 
+        OU {sistema de justiça criminal} 
+        OU {sistema de justiça} 
+        OU {justiça arbitrária} 
+        OU {refugiado*} 
+        OU {terrorista*} 
+        OU {violência} 
+        OU {tortura} 
+        OU {estado de direito efetivo} 
+        OU {fluxo de armas} 
+        OU {instituição transparente} 
+        OU {instituições transparentes} 
+        OU {boa governança} 
+        OU {identidade legal para todos} 
+        OU {liberdade de informação} 
+        OU {instituição de direitos humanos} 
+        OU {ativistas de direitos humanos} 
+        OU {liberdade fundamental} 
+        OU {liberdades fundamentais} 
+        OU {conflito violento} 
+        OU {conflitos violentos} 
+        OU {sociedade pacífica} 
+        OU {instituição efetiva} 
+        OU {instituições eficazes} 
+        OU {instituição responsável} 
+        OU {instituições responsáveis} 
+        OU {instituição inclusiva} 
+        OU {instituições inclusivas} 
+        OU {abuso infantil} 
+        OU {detenção arbitrária} 
+        OU {detenção sem sentença} 
+        OU {sistema judicial} 
+        OU {tribunal criminal} 
+        OU {sociedade inclusiva} 
+        OU {sociedades inclusivas} 
+        OU {instituição responsiva} 
+        OU {instituições responsivas} 
+        OU {sociedade justa} 
+        OU {sociedades justas} 
+        OU {recurso/remédio legal} 
+        OU {recursos/remédios legais} 
+        OU {independência do judiciário} 
+        OU {judiciário independente} 
+        OU {separação de poderes} 
+        OU {extremismo} 
+        OU {crime de guerra} 
+        OU {sociedade pacífica} 
+        OU {crime organizado} 
+        OU {transferência ilícita} 
+        OU {dinheiro ilícito} 
+        OU {tráfico de armas} 
+        OU {cibercrime / crime/s cibernético/s} 
+        OU {insurgência} 
+        OU {instituição democrática} 
+        OU {instabilidade política} 
+        OU ( {tomada de decisão política} E ( responsivo OU inclusivo OU participativo OU representativo ) ) 
+        OU {Convenção de Aarhus} 
+        OU {liberdade de imprensa} 
+        OU {liberdade de expressão}
+    ) 
+    E NÃO ( {doença} OU {genética} )
+)

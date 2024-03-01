@@ -1,0 +1,63 @@
+TITLE-ABSKEY (
+    (
+        {marinho} 
+        OU {oceano} 
+        OU {oceanos} 
+        OU {mar} 
+        OU {mares} 
+        OU {costa*} 
+        OU {mangue}
+    ) 
+    E 
+    (
+        {ciclo da água} 
+        OU {ciclos da água} 
+        OU {ciclo biogeoquímico} 
+        OU {ciclos biogeoquímicos} 
+        OU {modelo de circulação oceânica} 
+        OU {modelos de circulação oceânica} 
+        OU {modelagem de circulação oceânica} 
+        OU {iceocean/oceano gelado} 
+        OU {eutrófica*} 
+        OU {marinha} 
+        OU {branqueamento de corais} 
+        OU {manejo/gestão costeiro/a} 
+        OU {habitat costeiro} 
+        OU {habitats costeiros} 
+        OU {lixo marinho} 
+        OU {acidificação dos oceanos} 
+        OU (acidificação E água do mar) 
+        OU {pesca} 
+        OU {pesca excessiva} 
+        OU {rendimento sustentável} 
+        OU {área marinha protegida} 
+        OU {áreas marinhas protegidas} 
+        OU {conservação marinha} 
+        OU {ecoturismo} 
+        OU {conservação baseada na comunidade} 
+        OU {deslizamento de terra marinha} 
+        OU {poluição marinha} 
+        OU {escoamento de nutrientes} 
+        OU {ecoturismo costeiro} 
+        OU {pesca destrutiva} 
+        OU {pesca local} 
+        OU {pescadores artesanais} 
+        OU {direitos de pesca} 
+        OU {riqueza de espécies} 
+        OU {conhecimento ecológico tradicional} 
+        OU {pequenas ilhas em desenvolvimento} 
+        OU {cota marinha} 
+        OU {economia marinha} 
+        OU {política marinha}
+    ) 
+    E NÃO (
+        {paleoclima} 
+        OU {paleoceanografia} 
+        OU {radiocarbono} 
+        OU {genética} 
+        OU {medicina} 
+        OU {droga} 
+        OU {engenharia} 
+        OU {aerossol}
+    )
+)
