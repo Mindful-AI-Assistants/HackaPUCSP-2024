@@ -24,12 +24,16 @@ Os dados foram coletados do TEDE com informações pessoais removidas para garan
 ## 🏆 Avaliação
 Este projeto será avaliado com base no processo, desempenho, criatividade da solução, descobertas e habilidades de comunicação e apresentação.
 
+## 📈 Resultados do Projeto
+*Esta seção será atualizada com os resultados do projeto após a conclusão do hackathon.*
+
+
 
 ## 👥 Our Team - Group 5:
 
 - Bárbara Melo - 3° semestre
 - Fabiana Campanari - 1° semestre
-- Gustavo Muriana - 1° semestre
+- Gustavo Muriano - 1° semestre
 - Henrique Araujo - 3° semestre
 - Juliana Soares - 3° semestre
 - Leonardo Xerez - 1° semestre
