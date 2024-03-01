@@ -1,0 +1,34 @@
+TITLE-ABS-KEY 
+(
+    (
+        (
+            (igualdade E (econômica OU financeira OU socioeconômica))
+            OU (desigualdade E (econômica OU financeira OU socioeconômica))
+            OU {política de reforma econômica}
+            OU {políticas de reforma econômica}
+            OU {inclusão política}
+            OU {política de proteção social}
+            OU {políticas de proteção social}
+            OU (imigração E NÃO (química OU doença OU biodiversidade))
+            OU (emigração E NÃO (química OU doença OU biodiversidade))
+            OU {investimento estrangeiro direto}
+            OU {lacuna de desenvolvimento}
+            OU {lacunas de desenvolvimento}
+            OU {remessa de migrantes}
+            OU {migração responsável}
+            OU {política de migração/migratória}
+            OU {políticas de migração/migratórias}
+            OU {divisão norte-sul}
+            OU (desenvolvimento E ({tarifas} OU {tarifa} OU {tarifa zero} OU {acesso isento de impostos}))
+            OU {exclusão social}
+            OU {marginalização econômica}
+            OU {desigualdade de renda}
+            OU {lei discriminatória*}
+            OU {políticas discriminatórias}
+            OU {política discriminatória}
+            OU {empoderamento econômico}
+            OU {transformação econômica}
+            OU ({mercado global} E {empoderamento})
+        )
+    )
+)
