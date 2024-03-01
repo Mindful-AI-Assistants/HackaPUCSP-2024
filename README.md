@@ -24,7 +24,7 @@ Os dados foram coletados do TEDE com informações pessoais removidas para garan
 ## 🏆 Avaliação
 Este projeto será avaliado com base no processo, desempenho, criatividade da solução, descobertas e habilidades de comunicação e apresentação.
 
-## 📈 Acesso aos Links com os Resultados do Projeto
+## 🔗 Acesso aos Links com os Resultados do Projeto
 
  <br><br>
 
