@@ -3,6 +3,11 @@
  #  <p align="center"> 🎉 HACKAPUCSP
  #### <p align="center"> 📅 2ª edição | 2024
 
+<br>
+
+## 💡 Motivação
+Este projeto se concentra na pesquisa universitária sobre os Objetivos de Desenvolvimento Sustentável (ODS), visando promover soluções inovadoras para desafios globais.
+
 
 
 
