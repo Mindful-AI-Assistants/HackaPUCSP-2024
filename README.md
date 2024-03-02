@@ -29,7 +29,10 @@ As strings de busca são ferramentas de filtragem que ajudam a identificar e cla
 Os dados foram coletados do TEDE com informações pessoais removidas para garantir a privacidade.
 
 ## 🏆 Avaliação
-Este projeto será avaliado com base no processo, desempenho, criatividade da solução, descobertas e habilidades de comunicação e apresentação.
+
+<br>
+
+Este projeto será avaliado com base no processo, desempenho, criatividade da solução, descobertas e habilidades de comunicação e apresentação.<br>
 
 ## 🔗 Acesso aos Links com os Resultados do Projeto
 
