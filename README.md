@@ -55,8 +55,7 @@ Este projeto será avaliado com base no processo, desempenho, criatividade da so
 - Pedro Gallego - 1° semestre
 - [Rebecca Campos](https://github.com/becamparezzo) - 3° semestre
 
- <br>
-
+ 
 #
 
  <br>
