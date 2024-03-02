@@ -43,6 +43,8 @@ Este projeto será avaliado com base no processo, desempenho, criatividade da so
 
 ## :octocat: Our Team - Group 5:
 
+ <br>
+
 𖤐 [Bárbara Melo](https://github.com/babisxs23) - 3° semestre
 - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari) - 1° semestre
 - Gustavo Muriano - 1° semestre
@@ -53,10 +55,15 @@ Este projeto será avaliado com base no processo, desempenho, criatividade da so
 - Pedro Gallego - 1° semestre
 - [Rebecca Campos](https://github.com/becamparezzo) - 3° semestre
 
+ <br>
+
 #
+
  <br>
 
 ### <p align="center"> [![Sponsor MindfulAI Copilots & Bots](https://img.shields.io/badge/Sponsor-MindfulAI%20Copilots%20%26%20Bots-brightgreen?logo=GitHub)](https://github.com/sponsors/MindfulAI-Copilots-Bots)  
+
+ <br>
 
 #
 
