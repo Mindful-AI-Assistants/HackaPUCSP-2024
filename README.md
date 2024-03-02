@@ -20,11 +20,12 @@ Este projeto se concentra na pesquisa universitária da PUC-SP sobre os Objetivo
 O TEDE é uma plataforma digital que abriga trabalhos acadêmicos da PUCSP. Para visitar o site, acesse [tede.pucsp.br](https://tede.pucsp.br/).
 
 ## 📊 Dados
-Os dados foram extraídos do TEDE e incluem títulos, resumos, palavras-chave e outros metadados de trabalhos acadêmicos.
+
+Os dados foram extraídos do TEDE e incluem títulos, resumos, palavras-chave e outros metadados de trabalhos acadêmicos. <br><br>
 
 ## 🔍 Strings de Busca
 
-As strings de busca são ferramentas de filtragem que ajudam a identificar e classificar textos acadêmicos em relação aos ODS.  <br><br>
+As strings de busca são ferramentas de filtragem que ajudam a identificar e classificar textos acadêmicos em relação aos ODS. <br><br>
 
 ## 🕵️‍♀️ Anonimização
 
