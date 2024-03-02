@@ -1,7 +1,8 @@
 
 <!--![Screenshot 2024-03-02 at 17 06 26](https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/assets/113218619/d7ad9dd6-5890-4ccc-bf58-3c93d4840a2b)--> 
  
- 
+ ![1](https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/assets/113218619/f0231448-a9cc-4dc9-a6bf-04c748805b67)
+
  
  
  <br>
