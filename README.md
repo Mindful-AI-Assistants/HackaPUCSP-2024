@@ -27,7 +27,7 @@ As strings de busca são ferramentas de filtragem que ajudam a identificar e cla
 
 ## 🕵️‍♀️ Anonimização
 
-Os dados foram coletados do TEDE com informações pessoais removidas para garantir a privacidade.
+Os dados foram coletados do TEDE com informações pessoais removidas para garantir a privacidade.  <br><br>
 
 ## 🏆 Avaliação
 
