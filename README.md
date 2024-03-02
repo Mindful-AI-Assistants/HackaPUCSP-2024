@@ -1,7 +1,7 @@
 
 
  
-<!-- ![1](https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/assets/113218619/f0231448-a9cc-4dc9-a6bf-04c748805b67)   --> 
+
 
  
  
