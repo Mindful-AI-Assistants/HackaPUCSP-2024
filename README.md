@@ -17,7 +17,8 @@ Este projeto se concentra na pesquisa universitária da PUC-SP sobre os Objetivo
 
 
 ## 📚 TEDE
-O TEDE é uma plataforma digital que abriga trabalhos acadêmicos da PUCSP. Para visitar o site, acesse [tede.pucsp.br](https://tede.pucsp.br/).
+
+O TEDE é uma plataforma digital que abriga trabalhos acadêmicos da PUCSP. Para visitar o site, acesse [tede.pucsp.br](https://tede.pucsp.br/). <br><br>
 
 ## 📊 Dados
 
