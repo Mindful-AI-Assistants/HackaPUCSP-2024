@@ -26,11 +26,10 @@ Os dados foram extraídos do TEDE e incluem títulos, resumos, palavras-chave e 
 As strings de busca são ferramentas de filtragem que ajudam a identificar e classificar textos acadêmicos em relação aos ODS.
 
 ## 🕵️‍♀️ Anonimização
+
 Os dados foram coletados do TEDE com informações pessoais removidas para garantir a privacidade.
 
 ## 🏆 Avaliação
-
-<br>
 
 Este projeto será avaliado com base no processo, desempenho, criatividade da solução, descobertas e habilidades de comunicação e apresentação.<br>
 
@@ -45,8 +44,6 @@ Este projeto será avaliado com base no processo, desempenho, criatividade da so
 
 ## :octocat: Our Team - Group 5:
 
- <br>
-
 𖤐 [Bárbara Melo](https://github.com/babisxs23) - 3° semestre
 - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari) - 1° semestre
 - Gustavo Muriano - 1° semestre
@@ -59,12 +56,9 @@ Este projeto será avaliado com base no processo, desempenho, criatividade da so
 
  
 #
-
  <br>
 
-### <p align="center"> [![Sponsor MindfulAI Copilots & Bots](https://img.shields.io/badge/Sponsor-MindfulAI%20Copilots%20%26%20Bots-brightgreen?logo=GitHub)](https://github.com/sponsors/MindfulAI-Copilots-Bots)  
-
- <br>
+### <p align="center"> [![Sponsor MindfulAI Copilots & Bots](https://img.shields.io/badge/Sponsor-MindfulAI%20Copilots%20%26%20Bots-brightgreen?logo=GitHub)](https://github.com/sponsors/MindfulAI-Copilots-Bots) <br><br>
 
 #
 
