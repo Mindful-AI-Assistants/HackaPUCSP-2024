@@ -1,25 +1,57 @@
 
-<h2>How to Contribute</h2>
+# Contributing
 
-<ol>
-  <li>Fork the repository. This creates a copy of the project in your own GitHub account.</li>
-  <li>Clone the repository. This downloads the repository to your local computer.</li>
-  <li>Create a branch. This creates a space for you to work on your changes.</li>
-  <li>Make your changes. Add, edit, or delete whatever you think is necessary.</li>
-  <li>Commit your changes. This saves your changes in your branch.</li>
-  <li>Push your changes. This uploads your changes to your repository on GitHub.</li>
-  <li>Create a Pull Request. This sends your changes for review.</li>
-</ol>
+## Security / Disclosure
 
-<h2>Code of Conduct</h2>
+If you find any bug with Renovate that may be a security problem, then e-mail us at: renovate-disclosure@mend.io.
+This way we can evaluate the bug and hopefully fix it before it gets abused.
+Please give us enough time to investigate the bug before you report it anywhere else.
 
-<p>We ask that all contributors follow our <a href="CODE_OF_CONDUCT.md">Code of Conduct</a>, which sets expectations for the community in terms of respectful and inclusive behavior.</p>
+Please do not create GitHub issues for security-related doubts or problems.
 
-<h2>Questions?</h2>
+## Support
 
-<p>If you have any questions, feel free to open an Issue. We'll do our best to help you!</p>
+If you want help with your Renovate configuration, go to the discussions tab in the Renovate repository and open a new "config help" discussion post.
 
-<br>
+## Bug Reports and Feature Requests
+
+**Bugs**: First search for related bugs in the issues and discussions, if you don't find anything then:
+
+1. Create a minimal reproduction
+1. Open a new _discussion_ and link to the minimal reproduction
+
+For **feature requests**: first search for related requests in the issues and discussions, if you don't find anything: create a _discussion_.
+
+## Rate Limiting of Support Requests through Temporary Blocking
+
+To ensure that the Renovate maintainers don't burn out from dealing with unfriendly behavior, those who display a bad attitude when asking for or receiving support in the repo will be rate limited from further requests through the use of temporary blocking.
+The duration of the temporary block depends on how rude or inconsiderate the behavior is perceived to be, and can be from 1-30 days.
+
+If you have been blocked temporarily and believe that it is due to a misunderstanding, or you regret your comments and wish to make amends, please reach out to the lead maintainer Rhys Arkins by email with any request for early unblocking.
+If/once you are unblocked, you should edit or delete whatever comment lead to the blocking, even if you did not intend it to be rude or inconsiderate.
+Long emails or apologies are undesirable - the maintainers are busy and want to be able to help as many users as possible with the time they have available.
+
+## Code
+
+If you would like to fix a bug or work on a feature, please fork the repository and create a Pull Request.
+To learn how to setup your local workstation correctly read docs/development/local-development.md.
+Also skim the docs/development folder, it has a lot of helpful information on things like adding a new package manager, how Renovate branches work, design decisions and more.
+
+Before you start any Pull Request, it's recommended that you open a discussion first if you have any doubts about requirements or implementation.
+That way you can be sure that the maintainer(s) agree on what to change and how, and you can hopefully get a quick merge afterwards.
+Also, let the maintainers know that you plan to work on a particular issue so that no one else starts any duplicate work.
+
+### Tests
+
+Pull Requests can only be merged once all status checks are green, which means `pnpm test` passes, and coverage is 100%.
+
+Use these commands to help run your tests:
+
+- To run a single test folder, specify the path
+
+  ```bash
+  pnpm jest platform/gitlab
+
 
 #### <p align="center"> 🌎💙 **One People. One World. One Spirit...We Are All One!** </p>
 
