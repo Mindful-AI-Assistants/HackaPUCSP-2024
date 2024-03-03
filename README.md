@@ -51,7 +51,7 @@ Este projeto será avaliado com base no processo, desempenho, criatividade da so
 - [Gustavo Muriano]() - 1° semestre <br>
 - [Henrique Araujo](https://github.com/skRichsk) - 3° semestre <br>
  _ [Juliana Soares](https://github.com/julianamiranda1) - 3° semestre <br>
- [Leonardo Xerez]() - 1° semestre
+ - [Leonardo Xerez]() - 1° semestre <br>
  [Luan Fabiano](https://github.com/LuanFabiano28) - 1° semestre
  [Pedro Gallego]() - 1° semestre
  [Rebecca Campos](https://github.com/becamparezzo) - 3° semestre
