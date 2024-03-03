@@ -1,0 +1,20 @@
+name: whitesource-scan
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  WS_SCAN:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+
+      - name: Download UA
+        run: curl -LJO https://github.com/whitesource/unified-agent-distribution/releases/latest/download/wss-unified-agent.jar
+
+      - name: Run UA scan
+        run: java -jar wss-unified-agent.jar -d $GITHUB_WORKSPACE -noConfig true -apiKey ${{ secrets.WS_ORG_TOKEN }} -product W4D -project "Renovate OS - main" -resolveAllDependencies false -npm_resolveDependencies true || true
