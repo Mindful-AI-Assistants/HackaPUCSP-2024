@@ -9,8 +9,6 @@
 <!-- ![2](https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/assets/113218619/04aa9634-2bbf-4e7f-ad53-092b2518f1a8) --> 
 
 
-![6](https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/assets/113218619/6003e9f0-af29-4cb0-93c1-2e1738b95629)
-
 
 ![4](https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/assets/113218619/8cf651d9-6f3e-4bac-8863-7980135dafa2)
 
