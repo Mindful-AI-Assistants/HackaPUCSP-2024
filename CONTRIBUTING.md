@@ -52,6 +52,12 @@ Use these commands to help run your tests:
   ```bash
   pnpm jest platform/gitlab
 
+- To run against a single test file, specify down to the filename (suffix is not necessary)
+
+   ```bash
+   pnpm jest platform/gitlab/index
+
+
 
 #### <p align="center"> 🌎💙 **One People. One World. One Spirit...We Are All One!** </p>
 
