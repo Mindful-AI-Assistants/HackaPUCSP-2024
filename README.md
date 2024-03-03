@@ -6,6 +6,8 @@
 
 <!-- ![2](https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/assets/113218619/04aa9634-2bbf-4e7f-ad53-092b2518f1a8) --> 
 
+![4](https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/assets/113218619/ed183737-8769-4353-a44e-60c6ce398f9a)
+
 
  
   
