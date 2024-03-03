@@ -10,7 +10,7 @@
 
 
 
-![4](https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/assets/113218619/8cf651d9-6f3e-4bac-8863-7980135dafa2)
+<!-- ![4](https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/assets/113218619/8cf651d9-6f3e-4bac-8863-7980135dafa2)  --> 
 
 
 
