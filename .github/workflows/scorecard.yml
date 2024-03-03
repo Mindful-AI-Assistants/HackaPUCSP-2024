@@ -1,3 +1,5 @@
+#  update github/codeql-action action to v3.24.6 
+
 name: Scorecard supply-chain security
 on:
   schedule:
