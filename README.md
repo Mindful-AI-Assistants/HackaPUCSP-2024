@@ -2,24 +2,15 @@
 <!-- ![1](https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/assets/113218619/adb8aa64-cd7e-4eec-8bb8-2fa976643ee2  --> 
 
 
-<!--  <p align="center"> 
-  <img src="https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/assets/113218619/af3ed272-5128-4e22-b129-f7b94fef6f9b"/> --> 
-  
-
 <!-- ![2](https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/assets/113218619/04aa9634-2bbf-4e7f-ad53-092b2518f1a8) --> 
-
-
 
 <!-- ![4](https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/assets/113218619/8cf651d9-6f3e-4bac-8863-7980135dafa2)  --> 
 
-
-
-
-
-
+ <p align="center"> 
+  <img src="https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/assets/113218619/af3ed272-5128-4e22-b129-f7b94fef6f9b"/> 
  
   
- <br>
+ <br> <br>
  
  #  <p align="center"> 🏆 HACKAPUC-SP
  #### <p align="center"> 📅 2ª edição | 2024
