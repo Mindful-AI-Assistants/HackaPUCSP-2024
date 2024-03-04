@@ -12,7 +12,7 @@
   <img src="https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/assets/113218619/af3ed272-5128-4e22-b129-f7b94fef6f9b"/>  --> 
  
   
- <br> <br>
+ <br><br>
  
  #  <p align="center"> 🏆 HACKAPUC-SP
  #### <p align="center"> 📅 2ª edição | 2024
@@ -46,8 +46,7 @@ Este projeto será avaliado com base no processo, desempenho, criatividade da so
 
 ## 🔗 Acesso aos Links com os Resultados do Projeto
 
-📌 [Relatório - HACKAPUC-SP - Team 5](https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/blob/ce085344cc355a47ff9c286cf28784ae6ea6fe3c/Resultados/relato%CC%81rio%20hackapucsp_Grupo_5.pdf)
-
+📌 [Relatório - HACKAPUC-SP - Team 5](https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/blob/ce085344cc355a47ff9c286cf28784ae6ea6fe3c/Resultados/relato%CC%81rio%20hackapucsp_Grupo_5.pdf) <br>
 🐍 [Código Python - HACKAPU-CSP](https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/blob/a541669b14ed26160b1dbf07a64c421e36ec4a1e/Resultados/hackaPUCSP.py) <br><br>
 
 
