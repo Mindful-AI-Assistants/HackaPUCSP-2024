@@ -21,7 +21,7 @@
 
 ## 💡 Motivação
 
-Este projeto se concentra na pesquisa universitária da PUC-SP sobre os Objetivos de Desenvolvimento Sustentável (ODS), visando promover soluções inovadoras para desafios globais. <br><br>
+Este projeto se concentra na pesquisa universitária da Pontificia Universidade Católica de São Paulo sobre os Objetivos de Desenvolvimento Sustentável (ODS), visando promover soluções inovadoras para desafios globais. <br><br>
 
 
 ## 📚 TEDE
