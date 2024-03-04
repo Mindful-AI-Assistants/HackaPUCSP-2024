@@ -30,3 +30,5 @@
   // Otherwise jest watcher fails because deps were not installed yet
   "waitFor": "postCreateCommand"
 }
+
+"ghcr.io/wxw-matt/devcontainer-features/command_runner:0": {}
