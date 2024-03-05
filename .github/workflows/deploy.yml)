@@ -1,0 +1,6 @@
+name: Deploy Python App
+
+on:
+  push:
+    branches:
+      - main
