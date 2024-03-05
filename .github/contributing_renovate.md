@@ -64,4 +64,10 @@ Use these commands to help run your tests:
   pnpm jest platform/gitlab/index -t "getJsonFile"
   ```
 
+  - To run a single test, the `-t` value must be part of the `it` value of the test batch
+
+  ```bash
+  pnpm jest platform/gitlab/index -t "returns file content from given repo"
+  ```
+
 
