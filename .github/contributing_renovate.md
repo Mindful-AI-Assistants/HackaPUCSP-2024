@@ -40,4 +40,12 @@ Before you start any Pull Request, it's recommended that you open a [discussion]
 That way you can be sure that the maintainer(s) agree on what to change and how, and you can hopefully get a quick merge afterwards.
 Also, let the maintainers know that you plan to work on a particular issue so that no one else starts any duplicate work.
 
+### Tests
+
+Pull Requests can only be merged once all status checks are green, which means `pnpm test` passes, and coverage is 100%.
+
+Use these commands to help run your tests:
+
+- To run a single test folder, specify the path
+
 
