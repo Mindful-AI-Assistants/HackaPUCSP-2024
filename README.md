@@ -21,7 +21,7 @@
 
 ## 💡 Motivação
 
-Este projeto concentra-se na pesquisa universitária da Graduação em Ciencia de Dados e Inteligência Artificial da Pontificia Universidade Católica de São Paulo sobre os Objetivos de Desenvolvimento Sustentável (ODS), visando promover soluções inovadoras para desafios globais. <br><br>
+Este projeto concentra-se na pesquisa universitária da Graduação em Ciência de Dados e Inteligência Artificial da Pontifícia Universidade Católica de São Paulo sobre os Objetivos de Desenvolvimento Sustentável (ODS), visando promover soluções inovadoras para desafios globais. <br><br>
 
 
 ## 📚 TEDE
