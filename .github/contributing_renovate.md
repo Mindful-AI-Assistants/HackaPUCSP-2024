@@ -106,3 +106,5 @@ In this case you should make the necessary changes.
 
 Once you've done the work, resolve the conversation by selecting the **Resolve conversation** button in the PR overview.
 Avoid posting comments like "I've done the work", or "Done".
+
+Read the [GitHub Docs, resolving conversations](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request#resolving-conversations) to learn more.
