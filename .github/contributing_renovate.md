@@ -48,4 +48,14 @@ Use these commands to help run your tests:
 
 - To run a single test folder, specify the path
 
+   ```bash
+  pnpm jest platform/gitlab
+  ```
+
+- To run against a single test file, specify down to the filename (suffix is not necessary)
+
+  ```bash
+  pnpm jest platform/gitlab/index
+  ```
+
 
