@@ -9,7 +9,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
 
- steps:
+    steps:
       - name: Checkout code
         uses: actions/checkout@v2
 
@@ -27,13 +27,4 @@ jobs:
       - name: Deploy to production
         run: |
           # Add your deployment commands here
-            echo "Deploying to production..." 
- 
-      
-
-      
-
-     
-
-    
-   
+          echo "Deploying to production..."
