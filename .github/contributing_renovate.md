@@ -108,3 +108,9 @@ Once you've done the work, resolve the conversation by selecting the **Resolve c
 Avoid posting comments like "I've done the work", or "Done".
 
 Read the [GitHub Docs, resolving conversations](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request#resolving-conversations) to learn more.
+
+## Re-requesting a review
+
+Please do not ping your reviewer(s) by mentioning them in a new comment.
+Instead, use the re-request review functionality.
+Read more about this in the [GitHub docs, Re-requesting a review](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/incorporating-feedback-in-your-pull-request#re-requesting-a-review).
