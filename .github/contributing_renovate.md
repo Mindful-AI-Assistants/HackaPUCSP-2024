@@ -115,5 +115,4 @@ Please do not ping your reviewer(s) by mentioning them in a new comment.
 Instead, use the re-request review functionality.
 Read more about this in the [GitHub docs, Re-requesting a review](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/incorporating-feedback-in-your-pull-request#re-requesting-a-review).
 
-The codebase can be difficult to navigate, especially for a first-time contributor.
-We don't want you spending an hour trying to work out something that would take us only a minute to explain.
+
