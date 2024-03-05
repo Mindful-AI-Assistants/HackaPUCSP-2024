@@ -24,6 +24,12 @@ jobs:
       - name: Run tests
         run: pytest
 
+      - name: Deploy to production
+        run: |
+         
+
+      
+
       
 
      
