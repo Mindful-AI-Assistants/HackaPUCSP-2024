@@ -98,3 +98,11 @@ Maintainers can suggest changes while reviewing your pull request, please follow
 1. Select the **Commit suggestions** button
 
 Read the [GitHub docs, Applying suggested changes](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request#applying-suggested-changes) to learn more.
+
+## Resolve review comments instead of commenting
+
+A maintainer/contributor can ask you to make changes, without giving you a _suggestion_ that you can apply.
+In this case you should make the necessary changes.
+
+Once you've done the work, resolve the conversation by selecting the **Resolve conversation** button in the PR overview.
+Avoid posting comments like "I've done the work", or "Done".
