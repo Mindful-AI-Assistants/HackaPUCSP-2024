@@ -70,4 +70,8 @@ Use these commands to help run your tests:
   pnpm jest platform/gitlab/index -t "returns file content from given repo"
   ```
 
+And some options:
+
+- `--verbose=false` to avoid the test list
+- `--collectCoverage=false` to avoid collecting coverage, faster for the part you need the test to pass
 
