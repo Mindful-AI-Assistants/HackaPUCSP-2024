@@ -30,4 +30,14 @@ If you have been blocked temporarily and believe that it is due to a misundersta
 If/once you are unblocked, you should edit or delete whatever comment lead to the blocking, even if you did not intend it to be rude or inconsiderate.
 Long emails or apologies are undesirable - the maintainers are busy and want to be able to help as many users as possible with the time they have available.
 
+## Code
+
+If you would like to fix a bug or work on a feature, please fork the repository and create a Pull Request.
+To learn how to setup your local workstation correctly read [docs/development/local-development.md](../docs/development/local-development.md).
+Also skim the [docs/development](../docs/development/) folder, it has a lot of helpful information on things like adding a new package manager, how Renovate branches work, design decisions and more.
+
+Before you start any Pull Request, it's recommended that you open a [discussion](https://github.com/renovatebot/renovate/discussions) first if you have any doubts about requirements or implementation.
+That way you can be sure that the maintainer(s) agree on what to change and how, and you can hopefully get a quick merge afterwards.
+Also, let the maintainers know that you plan to work on a particular issue so that no one else starts any duplicate work.
+
 
