@@ -9,8 +9,7 @@
   <img src="https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/assets/113218619/af3ed272-5128-4e22-b129-f7b94fef6f9b"/>  --> 
 
   <p align="center"> 
-
-  https://github.com/MindfulAI-Copilots-Bots/HACKAPUC-SP/assets/113218619/467e6826-ddf5-4c0a-bb43-02aed2a046bc
+<img src="https://github.com/MindfulAI-Copilots-Bots/HACKAPUC-SP/assets/113218619/467e6826-ddf5-4c0a-bb43-02aed2a046bc"/>
  
   
  <br><br>
