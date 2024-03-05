@@ -75,3 +75,11 @@ And some options:
 - `--verbose=false` to avoid the test list
 - `--collectCoverage=false` to avoid collecting coverage, faster for the part you need the test to pass
 
+## Do not force push to your pull request branch
+
+Please do not force push to your PR's branch after you have created your PR, as doing so forces us to review the whole PR again.
+This makes it harder for us to review your work because we don't know what has changed.
+PRs will always be squashed by us when we merge your work.
+Commit as many times as you need in your pull request branch.
+
+
