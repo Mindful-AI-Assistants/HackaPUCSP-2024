@@ -97,3 +97,4 @@ Maintainers can suggest changes while reviewing your pull request, please follow
 1. Batch the suggestions into a logical group by selecting the **Add suggestion to batch** button
 1. Select the **Commit suggestions** button
 
+Read the [GitHub docs, Applying suggested changes](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request#applying-suggested-changes) to learn more.
