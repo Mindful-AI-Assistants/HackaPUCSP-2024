@@ -18,7 +18,9 @@
 
 <!-- large_header_Puc_CDIA_mobile_desk --> 
 
-
+ <p align="center"> 
+ <img src="" />
+   
 ![](https://github.com/MindfulAI-Copilots-Bots/HACKAPUC-SP/assets/113218619/6dd4ac60-6e78-48c0-979e-cb89d1fac752)
 
 
