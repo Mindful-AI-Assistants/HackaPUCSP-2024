@@ -10,6 +10,9 @@
 
  <!--  <p align="center"> 
 <img src="https://github.com/MindfulAI-Copilots-Bots/HACKAPUC-SP/assets/113218619/467e6826-ddf5-4c0a-bb43-02aed2a046bc"/>  --> 
+
+![header_Puc_CDIA_mobile_desk](https://github.com/MindfulAI-Copilots-Bots/HACKAPUC-SP/assets/113218619/430dafd4-6d71-4216-87a2-1a5fe1d0bf65)
+
  
   
  <br><br>
