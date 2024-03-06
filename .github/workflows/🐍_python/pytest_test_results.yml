@@ -1,4 +1,4 @@
-# upload artifacts for viewing after a workflow is complete. 
+# Upload artifacts for viewing after a workflow is complete. 
 # For example, you might need to save log files, core dumps, test results, or screenshots.
 # The following code demonstrates how to use the action to archive test results from the.
 
