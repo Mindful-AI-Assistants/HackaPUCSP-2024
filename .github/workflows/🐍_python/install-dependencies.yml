@@ -1,7 +1,5 @@
 # Requirements File
-# After you upgrade, a typical next step is to install requirements.txt
-#vdependencies.
-
+# After you upgrade, a typical next step is to install requirements.txt dependencies.
 
 steps:
 - uses: actions/checkout@v4
