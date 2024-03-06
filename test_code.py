@@ -1,4 +1,4 @@
-#rquivo de teste para o pytest. Este exemplo inclui várias funções de teste e usa fixtures 
+# Arquivo de teste para o pytest. Este exemplo inclui várias funções de teste e usa fixtures 
 # do pytest para configuração e limpeza
 
 
