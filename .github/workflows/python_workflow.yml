@@ -1,5 +1,5 @@
-# Requirements file
-After you update pip, the next step is to install dependencies
+# Requirements file.
+#After you update pip, the next step is to install dependencies
 from requirements.txt.
 
 steps:
