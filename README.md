@@ -11,9 +11,11 @@
  <!--  <p align="center"> 
 <img src="https://github.com/MindfulAI-Copilots-Bots/HACKAPUC-SP/assets/113218619/467e6826-ddf5-4c0a-bb43-02aed2a046bc"/>  --> 
 
- <!--header_Puc_CDIA_mobile_desk--> 
+ <!--header_Puc_CDIA_mobile_desk
  <p align="center"> 
-<img src="https://github.com/MindfulAI-Copilots-Bots/HACKAPUC-SP/assets/113218619/48eb86fc-cd63-46e3-b8b0-ab725b07a157" />
+<img src="https://github.com/MindfulAI-Copilots-Bots/HACKAPUC-SP/assets/113218619/48eb86fc-cd63-46e3-b8b0-ab725b07a157" /> --> 
+
+![large_header_Puc_CDIA_mobile_desk](https://github.com/MindfulAI-Copilots-Bots/HACKAPUC-SP/assets/113218619/6dd4ac60-6e78-48c0-979e-cb89d1fac752)
 
 
 
