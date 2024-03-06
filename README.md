@@ -1,4 +1,5 @@
-
+ <br><br>
+ 
 <!-- <p align="center">  
 <img src="https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/assets/113218619/adb8aa64-cd7e-4eec-8bb8-2fa976643ee2" />   -->  
 
@@ -16,8 +17,6 @@
 <img src="https://github.com/MindfulAI-Copilots-Bots/HACKAPUC-SP/assets/113218619/430dafd4-6d71-4216-87a2-1a5fe1d0bf65" />
 
  
-  
- <br><br>
  
  #  <p align="center"> 🏆 HACKAPUC-SP
  #### <p align="center"> 📅 2ª edição | 2024
