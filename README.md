@@ -16,6 +16,8 @@
  <p align="center"> 
 <img src="" />
 
+![header_Puc_CDIA_mobile_desk](https://github.com/MindfulAI-Copilots-Bots/HACKAPUC-SP/assets/113218619/48eb86fc-cd63-46e3-b8b0-ab725b07a157)
+
  
  
  #  <p align="center"> 🏆 HACKAPUC-SP
