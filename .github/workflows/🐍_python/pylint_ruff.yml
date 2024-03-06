@@ -1,3 +1,5 @@
+# Installs or updates and uses it to lint all files.
+
 steps:
 - uses: actions/checkout@v4
 - name: Set up Python
