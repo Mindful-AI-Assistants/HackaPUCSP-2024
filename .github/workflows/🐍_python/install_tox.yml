@@ -1,6 +1,5 @@
 # Run tests with tox
-# run tests with tox and distribute the work to multiple jobs. You'll need to invoke Tox using the option to choose the Python version in,
-# rather than specifying a version.
+# Run tests with tox and distribute the work to multiple jobs. You'll need to invoke Tox using the option to choose the Python version, rather than specifying a version.
 
 name: Python package
 
