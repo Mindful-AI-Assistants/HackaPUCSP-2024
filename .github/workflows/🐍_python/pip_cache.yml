@@ -1,4 +1,4 @@
-# Cache and store dependencies for pip
+# Cache and restore dependencies for pip.
 
 steps: 
 - uses: actions/checkout@v4
