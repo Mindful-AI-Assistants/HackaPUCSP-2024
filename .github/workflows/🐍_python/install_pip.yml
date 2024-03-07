@@ -1,5 +1,4 @@
-#  Use pip to install dependencies from the PyPI package registry before 
-# building and testing your code. 
+#  Use pip to install dependencies from the PyPI package registry before building and testing your code. 
 
 steps:
 - uses: actions/checkout@v4
