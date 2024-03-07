@@ -1,4 +1,4 @@
-# Installs or updates and uses it to lint all files.
+# Install and/or updates using this code to lint all files.
 
 steps:
 - uses: actions/checkout@v4
