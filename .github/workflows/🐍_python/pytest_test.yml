@@ -1,4 +1,4 @@
-# The tests are then run and returned in JUnit format while the code coverage results are emitted in Coverage.
+# The tests runs and will return in JUnit format while the code coverage results are emitted in Coverage.
 
 steps:
 - uses: actions/checkout@v4
