@@ -1,6 +1,9 @@
-icons
+<!-- icons 
 
 ![Icon_mascote_YELLOW](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/6ce1bcd2-b748-421a-b638-8ea773944540)
+
+ -->
+
 
 
 <!-- brasao-PUCSP-assinatura-alternativa
