@@ -13,6 +13,7 @@
 <p align="center">  
 <img src="" />  -->  
 
+![logo_CDIA_rounded_mobile_desk](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/d328b667-3791-4d40-8d57-47274e67e4cf)
 
 
 
