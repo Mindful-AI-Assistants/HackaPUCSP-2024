@@ -8,7 +8,7 @@
  <!-- <p align="center"> 
   <img src="https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/assets/113218619/af3ed272-5128-4e22-b129-f7b94fef6f9b"/>  --> 
 
- <!--   <!-- thin_header_Puc_CDIA_mobile_desk
+   <!-- thin_header_Puc_CDIA_mobile_desk
  <p align="center"> 
 <img src="https://github.com/MindfulAI-Copilots-Bots/HACKAPUC-SP/assets/113218619/467e6826-ddf5-4c0a-bb43-02aed2a046bc"/>  --> 
 
