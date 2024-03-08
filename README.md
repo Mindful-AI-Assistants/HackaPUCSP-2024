@@ -14,11 +14,14 @@
 <img src="https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/64fe8f40-4671-42ca-9788-1ac98c8d89de" />  -->  
 
 
- <!-- logo_CDIA_white_mobile_desk  --> 
+ <!-- logo_CDIA_white_mobile_desk 
 <p align="center">  
-<img src="https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/18b55b25-be35-44c6-be2c-6418297366f6" />   
+<img src="https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/18b55b25-be35-44c6-be2c-6418297366f6" />  --> 
 
 
+  <!-- header_Puc_white_mobile_desk -->  
+<p align="center">  
+<img src="" />  
 
 
 
