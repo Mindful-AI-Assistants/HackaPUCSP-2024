@@ -3,6 +3,8 @@
 <p align="center">  
 <img src="https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/assets/113218619/adb8aa64-cd7e-4eec-8bb8-2fa976643ee2" />   -->  
 
+![logo_CDIA_rounded_black](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/880cd74d-749a-4a40-a52a-665fb3b6ebd8)
+
 
 
 
