@@ -1,8 +1,16 @@
+
 <!-- icons 
 
 ![Icon_mascote_YELLOW](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/6ce1bcd2-b748-421a-b638-8ea773944540)
 
  -->
+
+<!-- icons
+
+![Icon_mascote_YELLOW](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/6ce1bcd2-b748-421a-b638-8ea773944540)
+
+![Icon_mascote_BLACK](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/2ad10613-8e14-4932-8ffb-0291a0409f6a) -->
+
 
 
 
