@@ -2,8 +2,7 @@
 <!-- <p align="center">  
 <img src="https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/assets/113218619/adb8aa64-cd7e-4eec-8bb8-2fa976643ee2" />   -->  
 
-<!-- <p align="center"> 
-<img src="https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/assets/113218619/04aa9634-2bbf-4e7f-ad53-092b2518f1a8)"/>   -->
+
 
  <!-- logo_Puc_black_mobile_desk
  <p align="center"> 
