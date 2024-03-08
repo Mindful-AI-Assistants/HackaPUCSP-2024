@@ -1,9 +1,11 @@
 
-<!-- header_Puc_white_mobile_desk
+<!--  header_Puc_white_mobile_desk
 <p align="center">  
-<img src="https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/assets/113218619/adb8aa64-cd7e-4eec-8bb8-2fa976643ee2" />   -->  
+<img src="https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP/assets/113218619/adb8aa64-cd7e-4eec-8bb8-2fa976643ee2" />  -->  
 
 
+<!-- brasao-PUCSP-assinatura-alternativa
+https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/5e2b963c-7c4b-49c9-a78d-9f5bda72befa />  -->  
 
 
 
