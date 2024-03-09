@@ -47,6 +47,16 @@
 
 ## Sobre 
 
+Aqui está o texto com um emoji adicionado:
+
+O HackaPUCSP é um evento que ocorreu durante a primeira semana do ano letivo, onde equipes de estudantes do curso de Ciência de Dados e Inteligência Artificial da PUC-SP se reuniram para participar da segunda edição. O hackathon é uma competição de programação comum na área de tecnologia e foi escolhido como forma de integrar grupos de estudantes de diferentes semestres, do primeiro ao sétimo. A competição culminou com o encerramento no dia 1º de março, e a equipe vencedora foi composta por estudantes de diversos semestres.
+
+
+
+🏆
+
+
+
 ## 💡 Motivação
 
 Este projeto concentra-se na pesquisa universitária da Graduação em Ciência de Dados e Inteligência Artificial da Pontifícia Universidade Católica de São Paulo sobre os Objetivos de Desenvolvimento Sustentável (ODS), visando promover soluções inovadoras para desafios globais. <br><br>
