@@ -1,8 +1,8 @@
 
-<!-- Final Arts Options -->
+                                                  <!--  FINAL ARTS OPTIONS   -->
 
 
-<!-- 1. CDIA ∑ Mascote Options -->
+            <!--    1. CDIA ∑ Mascote Options  -->
 
 <!-- ![Icon_mascote_YELLOW](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/6ce1bcd2-b748-421a-b638-8ea773944540)  -->
 
@@ -13,14 +13,16 @@
 <!-- ![icon_CDIA_white](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/1464a55d-83bc-4c18-89b0-6b59bfda64d3)  -->
 
 
-<!-- 2. Logo Options :  -->
+             <!--    2. Logo Options :  -->
 
 <!-- logo_PUC_BLACK -->
 <!-- <p align="center">  
 <img src="https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/7c5d3530-e41e-481f-b417-d66b1f2c1991" /> -->
 
 
-
+<!-- logo_PUC_BLACK -->
+<!-- <p align="center">  
+<img src="https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/7c5d3530-e41e-481f-b417-d66b1f2c1991" /> -->
 
  <!-- ![logo_CDIA_white](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/b1734d61-4dc6-408b-a3e9-d679d538b32b) -->
 
