@@ -38,17 +38,10 @@
  <!--  END HEADER  --> 
 
 
-
-
-
-
-
-
-
-
+<!--  START MAIN  -->
   
- ##  <p align="center"> 🏆 HackaPUCSP
- #### <p align="center"> 📅 2ª edição | 2024
+ #  <p align="center"> 🏆 HackaPUCSP
+ ### <p align="center"> 📅 2ª edição | 2024
 
  <br>
 
