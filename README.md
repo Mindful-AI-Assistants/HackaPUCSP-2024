@@ -1,11 +1,9 @@
 
-<!-- icons 
 
-![Icon_mascote_YELLOW](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/6ce1bcd2-b748-421a-b638-8ea773944540)
 
- -->
 
-<!-- icons
+
+<!-- icons options
 
 ![Icon_mascote_YELLOW](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/6ce1bcd2-b748-421a-b638-8ea773944540)
 
@@ -31,9 +29,7 @@
 -->
 
 
-<!--  Headers:  
-
-
+<!--  Headers Options:  
 
 <!-- brasao-PUCSP-assinatura-alternativa
 <p align="center">  
@@ -64,12 +60,7 @@
 <img src="" />  -->  
 
 
-  
 
-
-
-
-#
 
 <!-- large_header_Puc_CDIA_mobile_desk
 <p align="center">
