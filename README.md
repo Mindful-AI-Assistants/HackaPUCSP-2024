@@ -13,9 +13,7 @@
      ![icon_CDIA_white](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/1464a55d-83bc-4c18-89b0-6b59bfda64d3)  -->
 
 
-
-
-<!-- 2. Logo V :  
+<!-- 2. Logo Options :  -->
 
   <!-- logo_PUC_BLACK 
 <p align="center">  
