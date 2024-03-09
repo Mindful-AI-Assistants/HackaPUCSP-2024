@@ -15,6 +15,9 @@
 <img src="
 ![](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/7c5d3530-e41e-481f-b417-d66b1f2c1991" />  
 
+![logo_CDIA_round_BLACK](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/7ecb26be-cbd6-4db5-96fd-ebfb959e64e6)
+
+
 
 
 
