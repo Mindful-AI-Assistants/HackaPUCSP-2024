@@ -11,3 +11,5 @@ COPY . .
 
 # Instala as dependências do projeto
 RUN pip install --no-cache-dir -r requirements.txt
+
+
