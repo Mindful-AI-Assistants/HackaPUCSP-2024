@@ -23,7 +23,7 @@
 
 <!--  * 3. Headers Options *  --> 
 
-
+<!-- ![brasao-PUCSP-assinatura-alternativa](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/5e2b963c-7c4b-49c9-a78d-9f5bda72befa)  --> 
 
 
 
