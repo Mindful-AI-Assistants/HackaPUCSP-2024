@@ -9,7 +9,12 @@
 
 <!--  LOGOS:  -->
 
-![logo_PUC_BLACK](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/7c5d3530-e41e-481f-b417-d66b1f2c1991)
+
+  <!-- logo_PUC_BLACK -->  
+<p align="center">  
+<img src="
+![](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/7c5d3530-e41e-481f-b417-d66b1f2c1991" />  
+
 
 
 
