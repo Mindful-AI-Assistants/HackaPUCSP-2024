@@ -23,14 +23,7 @@
 
 <!--  * 3. Headers Options *  --> 
 
-<!-- brasao-PUCSP-assinatura-alternativa
-<p align="center">  
-<img src="https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/5e2b963c-7c4b-49c9-a78d-9f5bda72befa" /> 
 
-
-  <!-- header_Puc_WHITE
-<p align="center">  
-<img src="(https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/ae93b027-069c-43df-89f6-00650e3333aa" />  
 
 
 
@@ -43,16 +36,12 @@
 
 
 
-  <!-- 
-<p align="center">  
-<img src="" />  -->  
 
 
 
 
-<!-- large_header_Puc_CDIA_mobile_desk
-<p align="center">
-<img src="https://github.com/MindfulAI-Copilots-Bots/HACKAPUC-SP/assets/113218619/6dd4ac60-6e78-48c0-979e-cb89d1fac752" />  --> 
+
+
 
   
  ##  <p align="center"> 🏆 HackaPUCSP
