@@ -15,9 +15,12 @@
 
 <!-- 2. Logo Options :  -->
 
-  <!-- logo_PUC_BLACK-->
-<p align="center">  
-<img src="https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/7c5d3530-e41e-481f-b417-d66b1f2c1991" />  
+<!-- logo_PUC_BLACK -->
+<!-- <p align="center">  
+<img src="https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/7c5d3530-e41e-481f-b417-d66b1f2c1991" /> -->
+
+
+
 
  <!-- ![logo_CDIA_white](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/b1734d61-4dc6-408b-a3e9-d679d538b32b) -->
 
