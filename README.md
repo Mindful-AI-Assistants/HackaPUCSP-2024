@@ -27,6 +27,9 @@
 ![logo_CDIA_white](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/b1734d61-4dc6-408b-a3e9-d679d538b32b)
 
 
+![logo_CDIA_round_BLACK](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/7ecb26be-cbd6-4db5-96fd-ebfb959e64e6)
+
+
 
 
 
