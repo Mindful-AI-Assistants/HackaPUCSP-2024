@@ -2,7 +2,7 @@
 <!-- Final Arts  Options -->
 
 
-<!-- icons options
+<!-- 1. Icons Options
 
 ![Icon_mascote_YELLOW](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/6ce1bcd2-b748-421a-b638-8ea773944540)
 
@@ -10,9 +10,9 @@
 
 ![icon_CDIA_white](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/1464a55d-83bc-4c18-89b0-6b59bfda64d3) 
 
-![icon_CDIA_white](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/1464a55d-83bc-4c18-89b0-6b59bfda64d3) 
+![icon_CDIA_white](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/1464a55d-83bc-4c18-89b0-6b59bfda64d3) -->
 
--->
+
 
 
 <!--  LOGOS:  
