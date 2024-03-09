@@ -90,6 +90,8 @@ Este projeto será avaliado com base no processo, desempenho, criatividade da so
 - [Pedro Gallego]() - 1° semestre <br>
 - [Rebecca Campos](https://github.com/becamparezzo) - 3° semestre <br>
 
+<!--  END MAIN  -->
+
  
 #
  <br>
