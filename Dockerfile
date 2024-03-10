@@ -1,7 +1,7 @@
 
 
 # Use a imagem oficial do Python a partir do Docker Hub
-FROM python:3.8-slim-buster
+FROM python:3.11-slim-buster
 
 # Define o diretório de trabalho no contêiner
 WORKDIR /app
