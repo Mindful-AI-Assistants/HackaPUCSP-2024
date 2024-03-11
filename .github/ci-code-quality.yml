@@ -52,4 +52,5 @@ jobs:
         run: poetry run flake8 .
       - name: Run bandit
         run: poetry run bandit .
+        
 
