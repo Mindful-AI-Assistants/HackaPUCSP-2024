@@ -90,11 +90,11 @@ Este projeto será avaliado com base no processo, desempenho, criatividade da so
 
 ## :octocat: Our Team - Group 5: 
 
-- [Bárbara Melo]( https://github.com/BarbaraMelo2928) -  ***(3° semestre)*** <br>   
+- [Bárbara Melo]( https://github.com/BarbaraMelo2928) -  *(3° semestre)* <br>   
 - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari) - *(1° semestre)* <br>
 - [Gustavo Muriano]() - 1° semestre <br>
-- [Henrique Araujo](https://github.com/skRichsk) -  *(3° semestre) * <br>
-- [Juliana Soares](https://github.com/julianamiranda1) -  *(3° semestre) * <br>
+- [Henrique Araujo](https://github.com/skRichsk) -  *(3° semestre)* <br>
+- [Juliana Soares](https://github.com/julianamiranda1) -  *(3° semestre)* <br>
 - [Leonardo Xerez]() - 1° semestre <br>
 - [Luan Fabiano](https://github.com/LuanFabiano28) -  *(1° semestre)* <br>
 - [Pedro Gallego]() - 1° semestre <br>
