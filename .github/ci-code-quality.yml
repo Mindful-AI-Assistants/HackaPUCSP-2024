@@ -1,7 +1,6 @@
 # Continuous Integration (CI) and Code Quality
 
 name: CI
-name: CI
 on: [push]
 jobs:
   test:
@@ -52,4 +51,10 @@ jobs:
         run: poetry run flake8 .
       - name: Run bandit
         run: poetry run bandit .
+      - name: Run safety
+        run: poetry run safety check
+
+
+
+
 
