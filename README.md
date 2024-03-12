@@ -40,7 +40,7 @@
 <img src="https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/08632fd4-4d60-44ad-b686-4feb4ddc9478" /> 
  <!--  END HEADER  --> 
   
- <br><br>
+ <br>
  
 <!--  START MAIN  -->
    #  <p align="center"> 🏆 HackaPUCSP
@@ -102,6 +102,9 @@ Este projeto será avaliado com base no processo, desempenho, criatividade da so
 - [Luan Fabiano](https://github.com/LuanFabiano28) -  *(1° semestre)* <br>
 - [Pedro Gallego]() - 1° semestre <br>
 - [Rebecca Campos](https://github.com/becamparezzo) -  *(3° semestre)* <br>
+
+
+ #
 
  
 #
