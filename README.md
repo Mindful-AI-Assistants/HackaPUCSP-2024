@@ -47,7 +47,7 @@
 
  <br>
 
-## Sobre o HackaPUCSP
+## HackaPUCSP
 
 O HackaPUCSP é um evento que ocorreu durante a primeira semana do ano letivo de 2024, onde equipes de estudantes do curso de Ciência de Dados e Inteligência Artificial da PUC-SP se reuniram para participar da segunda edição. O hackathon é uma competição de programação comum na área de tecnologia e foi escolhido como forma de integrar grupos de estudantes de diferentes semestres, do primeiro ao sétimo. A competição culminou com o encerramento no dia 1º de março, e a equipe vencedora foi composta por estudantes de diversos semestres.
 
