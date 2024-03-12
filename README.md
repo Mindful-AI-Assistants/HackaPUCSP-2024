@@ -103,9 +103,6 @@ Este projeto será avaliado com base no processo, desempenho, criatividade da so
 - [Rebecca Campos](https://github.com/becamparezzo) -  *(3° semestre)* <br>
 
 
- #
-
- 
 #
  <br>
 
