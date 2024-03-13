@@ -36,7 +36,7 @@
 
   <!--  START HEADER  -->  
 <p align="center">  
-<img src="https://github" /> 
+<img src="" /> 
  <!--  END HEADER  --> 
   
  <br>
