@@ -36,7 +36,7 @@
 
   <!--  START HEADER  -->  
 <p align="center">  
-<img src="https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/08632fd4-4d60-44ad-b686-4feb4ddc9478" /> 
+<img src="https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/08" /> 
  <!--  END HEADER  --> 
   
  <br>
