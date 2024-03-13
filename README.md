@@ -36,7 +36,7 @@
 
   <!--  START HEADER  -->  
 <p align="center">  
-<img src="https://github.com/MindfulAI-Copilots-Bots/Hack" /> 
+<img src="https://github" /> 
  <!--  END HEADER  --> 
   
  <br>
