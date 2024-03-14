@@ -106,7 +106,7 @@ Este projeto será avaliado com base no processo, desempenho, criatividade da so
 #
  <br>
 
-
+![logoZenPy_transp](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/eb39e4c8-095c-49c1-8f79-487cb5754360)
 
 
 #
