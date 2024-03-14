@@ -29,7 +29,7 @@
 
 <!--  ![header_Puc_CDIA_BLUE](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/5c31578a-c9c0-4479-b432-4f668aedb0b2)  -->
 
-<!--   -->
+<!--  ![headerPuc_CDIA_Motion](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/601663d2-be2e-4e05-88ad-a60c79131071) -->
 
 
   <!--  START HEADER  -->  
