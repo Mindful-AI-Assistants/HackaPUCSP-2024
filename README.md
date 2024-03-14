@@ -32,11 +32,9 @@
 <!--   -->
 
 
-![headerPuc_CDIA_Motion](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/ab3e3531-2efe-4042-bcb9-fbee41718501)
-
   <!--  START HEADER  -->  
 <p align="center">  
-<img src="" /> 
+<img src="https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/ab3e3531-2efe-4042-bcb9-fbee41718501" /> 
  <!--  END HEADER  --> 
   
  <br>
