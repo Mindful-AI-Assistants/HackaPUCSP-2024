@@ -41,7 +41,7 @@
  
 <!--  START MAIN  -->
    ##  <p align="center"> 🏆 HackaPUCSP - Ciência de Dados e Inteligência Artificial PUC-SP
- ### <p align="center"> 📅 2ª edição | 2024
+ #### <p align="center"> 📅 2ª edição | 2024
 
  <br>
 
