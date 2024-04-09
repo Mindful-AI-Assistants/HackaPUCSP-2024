@@ -10,6 +10,5 @@ seaborn==0.11.2
 
 
 
-
 scikit-learn==1.0.1
 Flask
