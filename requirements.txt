@@ -1,7 +1,15 @@
 
 # Bibliotecas para manipulação de dados
-
 numpy==1.22.0
 pandas==1.3.3
+
+# Bibliotecas para visualização de dados
+matplotlib==3.4.3
+seaborn==0.11.2
+
+
+
+
+
 scikit-learn==1.0.1
 Flask
