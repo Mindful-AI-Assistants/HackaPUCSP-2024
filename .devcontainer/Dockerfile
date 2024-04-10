@@ -4,6 +4,9 @@ FROM ghcr.io/containerbase/devcontainer:10.1.4
 # Atualiza a lista de pacotes
 RUN apt-get update
 
+# Instala as dependências necessárias (substitua 'my-package' pelas suas dependências)
+RUN apt-get install -y my-package
+
 
 
 
