@@ -13,6 +13,11 @@ WORKDIR /app
 # Copia os arquivos do projeto para o contêiner
 COPY . .
 
+# Comando para iniciar o aplicativo (substitua 'my-command' pelo seu comando)
+CMD ["my-command"]
+
+
+
 
 
 
