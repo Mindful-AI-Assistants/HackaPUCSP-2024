@@ -16,6 +16,6 @@ tensorflow==2.11.1
 keras==2.6
 
 # Bibliotecas para processamento de linguagem natural
-nltk==3.6.2
+nltk==3.6.6
 spacy==3.1.3
 
