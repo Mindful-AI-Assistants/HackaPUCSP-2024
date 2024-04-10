@@ -15,3 +15,7 @@ scikit-learn==1.0.1
 tensorflow==2.11.1
 keras==2.6
 
+# Bibliotecas para processamento de linguagem natural
+nltk==3.6.2
+spacy==3.1.3
+
