@@ -7,6 +7,8 @@ RUN apt-get update
 # Instala as dependências necessárias (substitua 'my-package' pelas suas dependências)
 RUN apt-get install -y my-package
 
+# Define o diretório de trabalho
+WORKDIR /app
 
 
 
