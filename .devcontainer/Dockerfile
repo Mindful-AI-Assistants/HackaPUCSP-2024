@@ -10,5 +10,9 @@ RUN apt-get install -y my-package
 # Define o diretório de trabalho
 WORKDIR /app
 
+# Copia os arquivos do projeto para o contêiner
+COPY . .
+
+
 
 
