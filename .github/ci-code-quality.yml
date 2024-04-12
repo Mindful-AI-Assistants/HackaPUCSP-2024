@@ -1,5 +1,5 @@
 
-# Continuous Integration (CI) and Code Quality
+# Continuous Integration (CI) and Code Quality Workflow
 
 name: CI
 on: [push]
