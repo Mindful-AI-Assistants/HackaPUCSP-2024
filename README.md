@@ -92,7 +92,7 @@ Este projeto será avaliado com base no processo, desempenho, criatividade da so
 
 🐍 [2_Refactored_Code](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/blob/fa782f0d16b63e046a3f3999afa20f41e573512a/Codes%20and%20Data%20Analysis%20Report/Code/Data%20Analysis%20Report/HackaPUCSP%20Codes/2_Refactored_Code.py)
 
-🐍 [3_Refactored_Test_Code]()
+🐍 [3_Refactored_Test_Code] (https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/blob/6ea6d6850059bb4a6cb3649dea6800ce13a76a55/Codes%20and%20Data%20Analysis%20Report/Code/Data%20Analysis%20Report/HackaPUCSP%20Codes/3_Refactored_Test_Code.py)
 
 <br>
 
