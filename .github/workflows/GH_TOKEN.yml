@@ -1,1 +1,3 @@
+name: Open new issue
+on: workflow_dispatch
 
