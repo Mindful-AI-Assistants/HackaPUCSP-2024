@@ -58,7 +58,7 @@ The winning team was our group responsible for this repository that stores all t
 
 
 
-## 💡 Motivação
+## 💡 Motivation
 
 Este projeto concentra-se na pesquisa universitária da Graduação em Ciência de Dados e Inteligência Artificial da Pontifícia Universidade Católica de São Paulo sobre os Objetivos de Desenvolvimento Sustentável (ODS), visando promover soluções inovadoras para desafios globais. <br><br>
 
