@@ -50,7 +50,12 @@
 ## 👨‍💻 HackaPUCSP
 
 **HackaPUCSP** is an event that took place during the first week of the 2024 academic year, where teams of students from the Data Science and Artificial Intelligence course at PUC-SP gathered to participate in the second edition. The hackathon is a common programming competition in the technology field and was chosen as a way to integrate groups of students from different semesters, from the first to the seventh. The competition culminated with the closing on March 1st, and the winning team was composed of students from various semesters.
-Esses estudantes se destacaram no **HackaPUCSP 2ª edição**, demonstrando suas habilidades e criatividade na resolução de desafios relacionados aos Objetivos de Desenvolvimento Sustentável da ONU. A competição proporcionou uma oportunidade única para os alunos aplicarem seus conhecimentos em Ciência de Dados e Inteligência Artificial para abordar questões relevantes e atuais sobre sustentabilidade. A equipe vencedora foi o nosso grupo responsável por este repositório que armazena todos os dados. Para mais informações sobre o campeonato, você pode acessar o [Jornal da PUC](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp) e a [TV PUC](https://youtu.be/g0D9a6Faa-s?si=4L4Rj0ZPGJSKzBFg).
+
+
+hese students stood out in the 2nd edition of HackaPUCSP, demonstrating their skills and creativity in solving challenges related to the United Nations Sustainable Development Goals. The competition provided a unique opportunity for students to apply their knowledge in Data Science and Artificial Intelligence to address relevant and current issues about sustainability. 
+
+
+. A equipe vencedora foi o nosso grupo responsável por este repositório que armazena todos os dados. Para mais informações sobre o campeonato, você pode acessar o [Jornal da PUC](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp) e a [TV PUC](https://youtu.be/g0D9a6Faa-s?si=4L4Rj0ZPGJSKzBFg).
 
 
 
