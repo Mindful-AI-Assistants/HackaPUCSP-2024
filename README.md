@@ -76,9 +76,9 @@ TEDE, or the Digital Repository of Academic Works, is a digital platform that ho
 The data was extracted from TEDE and includes titles, abstracts, keywords, and other metadata from academic works. <br><br>
 
 
-## 🔍 Strings de Busca
+## 🔍 Search Strings
 
-As strings de busca são ferramentas de filtragem que ajudam a identificar e classificar textos acadêmicos em relação aos ODS. <br><br>
+Search strings are filtering tools that help identify and classify academic texts in relation to the SDGs. <br><br>
 
 ## 🕵️‍♀️ Anonimização
 
