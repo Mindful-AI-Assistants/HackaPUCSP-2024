@@ -46,7 +46,7 @@
 <!--  START MAIN  -->
  ##  <p align="center"> 🏆 HackaPUCSP - Data Science and Artificial Intelligence
  
- #### <p align="center"> 📅 nd edition | 2024
+ #### <p align="center"> 📅 2nd edition | 2024
 
  <br>
 
