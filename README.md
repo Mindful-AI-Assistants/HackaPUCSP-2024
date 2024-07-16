@@ -78,7 +78,7 @@ The data was extracted from TEDE and includes titles, abstracts, keywords, and o
 
 ## 🔍 Search Strings
 
-Search strings are filtering tools that help identify and classify academic texts in relation to the SDGs. <br><br>
+Search strings are filtering tools that help identify and classify academic texts in relation to the **Sustainable Development Goals (SDGs)**. The SDGs are a set of 17 global goals established by the United Nations in 2015 to address critical social, economic, and environmental challenges by 2030. These goals aim to promote peace, prosperity, and sustainability, covering areas such as poverty reduction, education, gender equality, clean water, and climate action. <br><br>
 
 ## 🕵️‍♀️ Anonimização
 
