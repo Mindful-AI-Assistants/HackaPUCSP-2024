@@ -57,16 +57,6 @@
 The competition culminated on March 1st, showcasing remarkable teamwork and creativity. **The winning team**, composed of students across different semesters, excelled in addressing issues related to the United Nations Sustainable Development Goals (SDGs). This event provided a unique opportunity for participants to apply their knowledge in Data Science and Artificial Intelligence to real-world sustainability challenges.
 
 
-
-<!--
-
-These students stood out in the 2nd edition of HackaPUCSP, demonstrating their skills and creativity in solving challenges related to the United Nations Sustainable Development Goals. The competition provided a unique opportunity for students to apply their knowledge in Data Science and Artificial Intelligence to address relevant and current issues about sustainability. 
-
-The winning team was our group responsible for this repository that stores all the data. For more information about the championship, you can access the PUC Journal and PUC TV. [PUC Journal](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp) and [TV PUC](https://youtu.be/g0D9a6Faa-s?si=4L4Rj0ZPGJSKzBFg).
-
--->
-
-
 ## 💡 Motivation
 
 This project focuses on university research from the Undergraduate in Data Science and Artificial Intelligence at the Pontifical Catholic University of São Paulo on the Sustainable Development Goals (SDGs), aiming to promote innovative solutions to global challenges. <br><br>
