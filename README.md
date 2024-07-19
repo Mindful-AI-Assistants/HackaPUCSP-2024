@@ -48,7 +48,7 @@
  
  #### <p align="center"> 📅 2nd edition | 2024
 
-ç
+
 
 ## 👨‍💻 HackaPUCSP
 
@@ -59,8 +59,7 @@ The competition culminated on March 1st, showcasing remarkable teamwork and crea
 For more details about the competition, please check out the [PUC Journal](link) and [PUC TV](link).
 
 
-
-
+<br><br>  
 
 ## 🏆 Winning Team
 
