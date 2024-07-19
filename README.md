@@ -67,7 +67,7 @@ This project focuses on university research from the Undergraduate in Data Scien
 
 TEDE, or the Digital Repository of Academic Works, is a digital platform that houses academic works from PUCSP (Pontifical Catholic University of São Paulo). It's a valuable resource for anyone interested in the research and academic output of the university. The repository includes a wide range of materials, such as dissertations, theses, and end-of-course works¹. You can visit the site at [tede.pucsp.br](https://tede.pucsp.br/). Please note that some materials may require login credentials for access. <br><br>
 
-## 📊 Data e Dataset
+## 📊 Datas and Dataset
 
 The data was extracted from TEDE and includes titles, abstracts, keywords, and other metadata from academic works. <br><br>
 
