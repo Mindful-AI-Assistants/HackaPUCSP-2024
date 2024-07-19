@@ -69,7 +69,7 @@ TEDE, or the Digital Repository of Academic Works, is a digital platform that ho
 
 ## 📊 Datas and Dataset
 
-The data was extracted from TEDE and includes titles, abstracts, keywords, and other metadata from academic works. <br><br>
+The data for this project was extracted from TEDE and includes titles, abstracts, keywords, and other metadata from over 1,000 academic works, covering various themes relevant to sustainability. <br><br>
 
 
 ## 🔍 Search Strings
