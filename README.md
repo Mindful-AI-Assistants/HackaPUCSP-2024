@@ -54,7 +54,8 @@
 
 **HackaPUCSP** iHackaPUCSP is an innovative hackathon that took place during the first week of the 2024 academic year, uniting students from the Data Science and Artificial Intelligence program at PUC-SP to tackle global challenges. In this second edition, teams from various semesters, ranging from the first to the seventh, collaborated to address innovative challenges.
 
-The competition culminated on March 1st, showcasing remarkable teamwork and creativity. **The winning team**, composed of students across different semesters
+The competition culminated on March 1st, showcasing remarkable teamwork and creativity. **The winning team**, composed of students across different semesters, excelled in addressing issues related to the United Nations Sustainable Development Goals (SDGs). 
+
 
 <!--
 
