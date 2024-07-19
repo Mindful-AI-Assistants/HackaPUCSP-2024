@@ -57,13 +57,13 @@
 The competition culminated on March 1st, showcasing remarkable teamwork and creativity. 
 
 
----
+<!--
 
 These students stood out in the 2nd edition of HackaPUCSP, demonstrating their skills and creativity in solving challenges related to the United Nations Sustainable Development Goals. The competition provided a unique opportunity for students to apply their knowledge in Data Science and Artificial Intelligence to address relevant and current issues about sustainability. 
 
 The winning team was our group responsible for this repository that stores all the data. For more information about the championship, you can access the PUC Journal and PUC TV. [PUC Journal](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp) and [TV PUC](https://youtu.be/g0D9a6Faa-s?si=4L4Rj0ZPGJSKzBFg).
 
---
+-->
 
 
 ## 💡 Motivation
