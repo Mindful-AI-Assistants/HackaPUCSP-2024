@@ -63,9 +63,9 @@ For more details about the competition, please check out the [PUC Journal](link)
 
 ## 🏆 Winning Team
 
-- [Bárbara Melo]( https://github.com/BarbaraMelo2928) -   <!-- *(3° semestre)*  --> <br>
+- [Bárbara Melo]( https://github.com/BarbaraMelo2928)    <!-- *(3° semestre)*  --> <br>
     
-- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari) - *(1° semestre)* <br>
+- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)  <!-- - *(1° semestre)* <br>
 - [Gustavo Muriano]() - 1° semestre <br>
 - [Henrique Araujo](https://github.com/skRichsk) -  *(3° semestre)* <br>
 - [Juliana Soares](https://github.com/julianamiranda1) -  *(3° semestre)* <br>
@@ -77,6 +77,10 @@ For more details about the competition, please check out the [PUC Journal](link)
 
 
 ## 💡 Motivation
+
+
+This project focuses on university research from the Undergraduate program in Data Science and Artificial Intelligence at PUC-SP, specifically targeting the Sustainable Development Goals (SDGs). Our aim is to promote innovative solutions to global challenges through collaborative efforts.
+
 
 This project focuses on university research from the Undergraduate in Data Science and Artificial Intelligence at the Pontifical Catholic University of São Paulo on the Sustainable Development Goals (SDGs), aiming to promote innovative solutions to global challenges. <br><br>
 
