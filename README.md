@@ -48,7 +48,7 @@
  
  #### <p align="center"> 📅 2nd edition | 2024
 
- <br>
+ç
 
 ## 👨‍💻 HackaPUCSP
 
