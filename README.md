@@ -59,6 +59,17 @@ The competition culminated on March 1st, showcasing remarkable teamwork and crea
 
 ## 🏆 Winning Team
 
+- [Bárbara Melo]( https://github.com/BarbaraMelo2928) -  *(3° semestre)* <br>   
+- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari) - *(1° semestre)* <br>
+- [Gustavo Muriano]() - 1° semestre <br>
+- [Henrique Araujo](https://github.com/skRichsk) -  *(3° semestre)* <br>
+- [Juliana Soares](https://github.com/julianamiranda1) -  *(3° semestre)* <br>
+- [Leonardo Xerez]() - 1° semestre <br>
+- [Luan Fabiano](https://github.com/LuanFabiano28) -  *(1° semestre)* <br>
+- [Pedro Gallego]() - 1° semestre <br>
+- [Rebecca Campos](https://github.com/becamparezzo) -  *(3° semestre)* <br>
+
+
 
 ## 💡 Motivation
 
