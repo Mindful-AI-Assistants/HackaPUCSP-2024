@@ -73,7 +73,7 @@ For more details about the competition, please check out the [PUC Journal](link)
 
 - [Bárbara Melo]( https://github.com/BarbaraMelo2928)    <!-- *(3° semestre)*  --> <br>
     
-- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)  <!-- - *(1° semestre)* <br>
+- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari) - *(1° semestre)* <br>
 - [Gustavo Muriano]() - 1° semestre <br>
 - [Henrique Araujo](https://github.com/skRichsk) -  *(3° semestre)* <br>
 - [Juliana Soares](https://github.com/julianamiranda1) -  *(3° semestre)* <br>
