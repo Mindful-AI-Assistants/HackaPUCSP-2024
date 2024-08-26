@@ -137,6 +137,7 @@ Este projeto foi avaliado com base no processo, desempenho, criatividade da solu
 - [Rebecca Campos](https://github.com/becamparezzo) -  *(3° semestre)* <br>
 
 
+<!--
    <br>
 
 <p align="center">  
