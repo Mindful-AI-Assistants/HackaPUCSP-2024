@@ -133,14 +133,29 @@ This project was assessed based on the process, performance, creativity of the s
 - [Rebecca Campos](https://github.com/becamparezzo) -  *(3° semestre)* <br>
 
 
-<!--
-   <br>
-
-<p align="center">  
-<img src="https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/eb39e4c8-095c-49c1-8f79-487cb5754360" width="200" />
-</p>
  
- --> 
+## Contribution
+
+Any contributions are highly appreciated.  You can contribute in two ways:
+
+   1. Create an issue and tell us your idea 💡. Make sure that you use the new idea label in this case;
+
+   2. Fork the project and submit a full requesto with your new idea. Before doing that, please make sure that you read and follow the [Contributions Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹[★]()🔭๋
+
+
+
+## Spread the word! 🌎💙
+
+If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too! Together we can grow and make our community better! 
+
+Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback
+
+
+## Main Contributors on this Repo
+
+- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+
+
 
  #
 
@@ -149,10 +164,6 @@ This project was assessed based on the process, performance, creativity of the s
  ### <p align="center"> [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml)  [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml)   
 
 
-
-
-     
-555555
 #
 
  <!--  START FOOTER  -->
