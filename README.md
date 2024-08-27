@@ -113,16 +113,18 @@ The data was collected from TEDE with personal information removed to ensure pri
 <br>
 
 
-## 🏆 Avaliação
+## 🏆 Evaluation
 
-Este projeto foi avaliado com base no processo, desempenho, criatividade da solução, descobertas e habilidades de comunicação e apresentação.<br><br>
+This project was assessed based on the process, performance, creativity of the solution, findings, and communication and presentation skills.
+
+<br>
 
 
 ## 🔗 Codes and Data Analysis Report 
 
  <br>
 
-📌 [Data Analysis Report](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/blob/820c159b2795d69a550a18d50aa9c35a611638dc/Codes%20and%20Data%20Analysis%20Report/Code/Data%20Analysis%20Report/Data%20Analysis%20Report%20.pdf) <br>
+📌 [Data Analysis Report](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/blob/820c159b2795d69a550a18d50aa9c35a611638dc/Codes%20and%20Data%20Analysis%20Report/Code/Data%20Analysis%20Report/Data%20Analysis%20Report%20.pdf) 
 
 🐍 [1_HackaPUCSP_Code](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/blob/a15a3a155fadc7b349818a818013a136b76828b1/Codes%20and%20Data%20Analysis%20Report/Code/Data%20Analysis%20Report/HackaPUCSP%20Codes/1_HackaPUCSP_Code.py)
 
@@ -131,7 +133,6 @@ Este projeto foi avaliado com base no processo, desempenho, criatividade da solu
 🐍 [3_Refactored_Test_Code](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/blob/6ea6d6850059bb4a6cb3649dea6800ce13a76a55/Codes%20and%20Data%20Analysis%20Report/Code/Data%20Analysis%20Report/HackaPUCSP%20Codes/3_Refactored_Test_Code.py)
 
 <br>
-
 
 ## :octocat: Our Team - Group 5: 
 
