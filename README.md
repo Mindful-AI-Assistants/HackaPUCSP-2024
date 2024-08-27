@@ -62,7 +62,6 @@ The competition culminated on March 1st, showcasing remarkable teamwork and crea
 
 For more details about the competition, please check out the [PUC Journal](link) and [PUC TV](link).
 
-<br>
 
 ## 🏆 Winning [Team]()
 
@@ -77,7 +76,6 @@ For more details about the competition, please check out the [PUC Journal](link)
 - [Pedro Gallego]() - 1° semestre <br>
 - [Rebecca Campos](https://github.com/becamparezzo) -  *(3° semestre)* <br>
 
-<br>
 
 ## 💡 [Motivation]()
 
@@ -85,31 +83,24 @@ This project focuses on university research from the Undergraduate program in Da
 
 This project focuses on university research from the Undergraduate in Data Science and Artificial Intelligence at the Pontifical Catholic University of São Paulo on the Sustainable Development Goals (SDGs), aiming to promote innovative solutions to global challenges. 
 
-<br>
 
 ## 📚 [TEDE]()
 
 TEDE, or the Digital Repository of Academic Works, is a digital platform that houses academic works from PUCSP (Pontifical Catholic University of São Paulo). It's a valuable resource for anyone interested in the research and academic output of the university. The repository includes a wide range of materials, such as dissertations, theses, and end-of-course works¹. You can visit the site at [tede.pucsp.br](https://tede.pucsp.br/). Please note that some materials may require login credentials for access. 
 
-<br>
 
 ## 📊 Datas and Dataset
 
 The data for this project was extracted from TEDE and includes titles, abstracts, keywords, and other metadata from over 1,000 academic works, covering various themes relevant to sustainability.
 
-<br>=
-
 ## 🔍 Search Strings
 
 Search strings are filtering tools that help identify and classify academic texts in relation to the **Sustainable Development Goals (SDGs)**. The SDGs are a set of 17 global goals established by the United Nations in 2015 to address critical social, economic, and environmental challenges by 2030. These goals aim to promote peace, prosperity, and sustainability, covering areas such as poverty reduction, education, gender equality, clean water, and climate action. 
 
-<br>
 
 ## 🕵️‍♀️ Anonymization
 
 The data was collected from TEDE with personal information removed to ensure privacy.
-
-<br>
 
 
 ## 🏆 Evaluation
@@ -117,7 +108,7 @@ The data was collected from TEDE with personal information removed to ensure pri
 This project was assessed based on the process, performance, creativity of the solution, findings, and communication and presentation skills.
 
 
-## 🔗 Codes and Data Analysis Report 
+## 🔗 [Codes and Data Analysis Report]()
 
 
 📌 [Data Analysis Report](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/blob/820c159b2795d69a550a18d50aa9c35a611638dc/Codes%20and%20Data%20Analysis%20Report/Code/Data%20Analysis%20Report/Data%20Analysis%20Report%20.pdf) 
