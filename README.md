@@ -63,20 +63,6 @@ The competition culminated on March 1st, showcasing remarkable teamwork and crea
 For more details about the competition, please check out the [PUC Journal](link) and [PUC TV](link).
 
 
-## 🏆 Our Champion Team
-
-- [Bárbara Melo]( https://github.com/BarbaraMelo2928)    <!-- *(3° semestre)*  --> <br>
-    
-- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari) - *(1° semestre)* <br>
-- [Gustavo Muriano]() - 1° semestre <br>
-- [Henrique Araujo](https://github.com/skRichsk) -  *(3° semestre)* <br>
-- [Juliana Soares](https://github.com/julianamiranda1) -  *(3° semestre)* <br>
-- [Leonardo Xerez]() - 1° semestre <br>
-- [Luan Fabiano](https://github.com/LuanFabiano28) -  *(1° semestre)* <br>
-- [Pedro Gallego]() - 1° semestre <br>
-- [Rebecca Campos](https://github.com/becamparezzo) -  *(3° semestre)* <br>
-
-
 ## 💡 Motivation
 
 This project focuses on university research from the Undergraduate program in Data Science and Artificial Intelligence at PUC-SP, specifically targeting the Sustainable Development Goals (SDGs). Our aim is to promote innovative solutions to global challenges through collaborative efforts.
@@ -120,18 +106,18 @@ This project was assessed based on the process, performance, creativity of the s
 🐍 [3_Refactored_Test_Code](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/blob/6ea6d6850059bb4a6cb3649dea6800ce13a76a55/Codes%20and%20Data%20Analysis%20Report/Code/Data%20Analysis%20Report/HackaPUCSP%20Codes/3_Refactored_Test_Code.py)
 
 
-## :octocat: Our Team - Group 5: 
+## 🏆 Our Champion Team - Group 5: 
 
--[Bárbara Melo]( https://github.com/BarbaraMelo2928) -  *(3° semestre)* <br>   
--[Fabiana 🚀 Campanari](https://github.com/FabianaCampanari) - *(1° semestre)* <br>
--[Gustavo Muriano]() - 1° semestre <br>
--[Henrique Araujo](https://github.com/skRichsk) -  *(3° semestre)* <br>
--[Juliana Soares](https://github.com/julianamiranda1) -  *(3° semestre)* <br>
--[Leonardo Xerez]() - 1° semestre <br>
--[Luan Fabiano](https://github.com/LuanFabiano28) -  *(1° semestre)* <br>
--[Pedro Gallego]() - 1° semestre <br>
--[Rebecca Campos](https://github.com/becamparezzo) -  *(3° semestre)* <br>
-
+- [Bárbara Melo]( https://github.com/BarbaraMelo2928)    <!-- *(3° semestre)*  --> <br>
+    
+- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari) - *(1° semestre)* <br>
+- [Gustavo Muriano]() - 1° semestre <br>
+- [Henrique Araujo](https://github.com/skRichsk) -  *(3° semestre)* <br>
+- [Juliana Soares](https://github.com/julianamiranda1) -  *(3° semestre)* <br>
+- [Leonardo Xerez]() - 1° semestre <br>
+- [Luan Fabiano](https://github.com/LuanFabiano28) -  *(1° semestre)* <br>
+- [Pedro Gallego]() - 1° semestre <br>
+- [Rebecca Campos](https://github.com/becamparezzo) -  *(3° semestre)* <br>
 
  
 ## Contribution
