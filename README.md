@@ -97,13 +97,13 @@ This project was assessed based on the process, performance, creativity of the s
 ## 🔗 Codes and Data Analysis Report
 
 
-📌 [Data Analysis Report](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/blob/820c159b2795d69a550a18d50aa9c35a611638dc/Codes%20and%20Data%20Analysis%20Report/Code/Data%20Analysis%20Report/Data%20Analysis%20Report%20.pdf) 
+- 📌 [Data Analysis Report](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/blob/820c159b2795d69a550a18d50aa9c35a611638dc/Codes%20and%20Data%20Analysis%20Report/Code/Data%20Analysis%20Report/Data%20Analysis%20Report%20.pdf) 
 
-🐍 [1_HackaPUCSP_Code](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/blob/a15a3a155fadc7b349818a818013a136b76828b1/Codes%20and%20Data%20Analysis%20Report/Code/Data%20Analysis%20Report/HackaPUCSP%20Codes/1_HackaPUCSP_Code.py)
+- 🐍 [1_HackaPUCSP_Code](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/blob/a15a3a155fadc7b349818a818013a136b76828b1/Codes%20and%20Data%20Analysis%20Report/Code/Data%20Analysis%20Report/HackaPUCSP%20Codes/1_HackaPUCSP_Code.py)
 
-🐍 [2_Refactored_Code](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/blob/fa782f0d16b63e046a3f3999afa20f41e573512a/Codes%20and%20Data%20Analysis%20Report/Code/Data%20Analysis%20Report/HackaPUCSP%20Codes/2_Refactored_Code.py)
+- 🐍 [2_Refactored_Code](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/blob/fa782f0d16b63e046a3f3999afa20f41e573512a/Codes%20and%20Data%20Analysis%20Report/Code/Data%20Analysis%20Report/HackaPUCSP%20Codes/2_Refactored_Code.py)
 
-🐍 [3_Refactored_Test_Code](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/blob/6ea6d6850059bb4a6cb3649dea6800ce13a76a55/Codes%20and%20Data%20Analysis%20Report/Code/Data%20Analysis%20Report/HackaPUCSP%20Codes/3_Refactored_Test_Code.py)
+- 🐍 [3_Refactored_Test_Code](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/blob/6ea6d6850059bb4a6cb3649dea6800ce13a76a55/Codes%20and%20Data%20Analysis%20Report/Code/Data%20Analysis%20Report/HackaPUCSP%20Codes/3_Refactored_Test_Code.py)
 
 
 ## 🏆 Our Champion Team - Group 5: 
