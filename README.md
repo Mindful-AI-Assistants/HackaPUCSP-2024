@@ -48,15 +48,11 @@
  
  #### <p align="center"> 📅 2nd edition | [2024]()
  
-
  <br>
-
 
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
-
- <br> <br>  
-
+ <br><br>  
 
 ## 👨‍💻 [HackaPUCSP]()
 
@@ -66,10 +62,9 @@ The competition culminated on March 1st, showcasing remarkable teamwork and crea
 
 For more details about the competition, please check out the [PUC Journal](link) and [PUC TV](link).
 
-
 <br><br>  
 
-## 🏆 Winning Team
+## 🏆 [Winning Team]()
 
 - [Bárbara Melo]( https://github.com/BarbaraMelo2928)    <!-- *(3° semestre)*  --> <br>
     
@@ -83,12 +78,9 @@ For more details about the competition, please check out the [PUC Journal](link)
 - [Rebecca Campos](https://github.com/becamparezzo) -  *(3° semestre)* <br>
 
 
-
-## 💡 Motivation
-
+## 💡 [Motivation]()
 
 This project focuses on university research from the Undergraduate program in Data Science and Artificial Intelligence at PUC-SP, specifically targeting the Sustainable Development Goals (SDGs). Our aim is to promote innovative solutions to global challenges through collaborative efforts.
-
 
 This project focuses on university research from the Undergraduate in Data Science and Artificial Intelligence at the Pontifical Catholic University of São Paulo on the Sustainable Development Goals (SDGs), aiming to promote innovative solutions to global challenges. <br><br>
 
