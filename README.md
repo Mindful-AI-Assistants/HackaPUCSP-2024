@@ -87,8 +87,7 @@ This project focuses on university research from the Undergraduate in Data Scien
 
 <br>
 
-
-## 📚 TEDE
+## 📚 [TEDE]()
 
 TEDE, or the Digital Repository of Academic Works, is a digital platform that houses academic works from PUCSP (Pontifical Catholic University of São Paulo). It's a valuable resource for anyone interested in the research and academic output of the university. The repository includes a wide range of materials, such as dissertations, theses, and end-of-course works¹. You can visit the site at [tede.pucsp.br](https://tede.pucsp.br/). Please note that some materials may require login credentials for access. 
 
@@ -117,12 +116,9 @@ The data was collected from TEDE with personal information removed to ensure pri
 
 This project was assessed based on the process, performance, creativity of the solution, findings, and communication and presentation skills.
 
-<br>
-
 
 ## 🔗 Codes and Data Analysis Report 
 
- <br>
 
 📌 [Data Analysis Report](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/blob/820c159b2795d69a550a18d50aa9c35a611638dc/Codes%20and%20Data%20Analysis%20Report/Code/Data%20Analysis%20Report/Data%20Analysis%20Report%20.pdf) 
 
