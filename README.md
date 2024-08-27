@@ -54,7 +54,7 @@
 
  <br><br>  
 
-## 👨‍💻 [HackaPUCSP]()
+## 👨‍💻 HackaPUCSP
 
 **HackaPUCSP** iHackaPUCSP is an innovative hackathon that took place during the first week of the 2024 academic year, uniting students from the Data Science and Artificial Intelligence program at PUC-SP to tackle global challenges. In this second edition, teams from various semesters, ranging from the first to the seventh, collaborated to address innovative challenges.
 
@@ -63,7 +63,7 @@ The competition culminated on March 1st, showcasing remarkable teamwork and crea
 For more details about the competition, please check out the [PUC Journal](link) and [PUC TV](link).
 
 
-## 🏆 Winning [Team]()
+## 🏆 Winning Team
 
 - [Bárbara Melo]( https://github.com/BarbaraMelo2928)    <!-- *(3° semestre)*  --> <br>
     
@@ -77,38 +77,38 @@ For more details about the competition, please check out the [PUC Journal](link)
 - [Rebecca Campos](https://github.com/becamparezzo) -  *(3° semestre)* <br>
 
 
-## 💡 [Motivation]()
+## 💡 Motivation
 
 This project focuses on university research from the Undergraduate program in Data Science and Artificial Intelligence at PUC-SP, specifically targeting the Sustainable Development Goals (SDGs). Our aim is to promote innovative solutions to global challenges through collaborative efforts.
 
 This project focuses on university research from the Undergraduate in Data Science and Artificial Intelligence at the Pontifical Catholic University of São Paulo on the Sustainable Development Goals (SDGs), aiming to promote innovative solutions to global challenges. 
 
 
-## 📚 [TEDE]()
+## 📚 TEDE
 
 TEDE, or the Digital Repository of Academic Works, is a digital platform that houses academic works from PUCSP (Pontifical Catholic University of São Paulo). It's a valuable resource for anyone interested in the research and academic output of the university. The repository includes a wide range of materials, such as dissertations, theses, and end-of-course works¹. You can visit the site at [tede.pucsp.br](https://tede.pucsp.br/). Please note that some materials may require login credentials for access. 
 
 
-## 📊 Datas and [Dataset]()
+## 📊 Datas and Dataset
 
 The data for this project was extracted from TEDE and includes titles, abstracts, keywords, and other metadata from over 1,000 academic works, covering various themes relevant to sustainability.
 
-## 🔍 [Search Strings]()
+## 🔍 Search Strings
 
 Search strings are filtering tools that help identify and classify academic texts in relation to the **Sustainable Development Goals (SDGs)**. The SDGs are a set of 17 global goals established by the United Nations in 2015 to address critical social, economic, and environmental challenges by 2030. These goals aim to promote peace, prosperity, and sustainability, covering areas such as poverty reduction, education, gender equality, clean water, and climate action. 
 
 
-## 🕵️‍♀️ [Anonymization]()
+## 🕵️‍♀️ Anonymization
 
 The data was collected from TEDE with personal information removed to ensure privacy.
 
 
-## 🏆 [Evaluation]()
+## 🏆 Evaluation
 
 This project was assessed based on the process, performance, creativity of the solution, findings, and communication and presentation skills.
 
 
-## 🔗 Codes and [Data Analysis Report]()
+## 🔗 Codes and Data Analysis Report
 
 
 📌 [Data Analysis Report](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/blob/820c159b2795d69a550a18d50aa9c35a611638dc/Codes%20and%20Data%20Analysis%20Report/Code/Data%20Analysis%20Report/Data%20Analysis%20Report%20.pdf) 
@@ -120,7 +120,7 @@ This project was assessed based on the process, performance, creativity of the s
 🐍 [3_Refactored_Test_Code](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/blob/6ea6d6850059bb4a6cb3649dea6800ce13a76a55/Codes%20and%20Data%20Analysis%20Report/Code/Data%20Analysis%20Report/HackaPUCSP%20Codes/3_Refactored_Test_Code.py)
 
 
-## :octocat: Our Team - [Group 5:]() 
+## :octocat: Our Team - Group 5: 
 
 - [Bárbara Melo]( https://github.com/BarbaraMelo2928) -  *(3° semestre)* <br>   
 - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari) - *(1° semestre)* <br>
