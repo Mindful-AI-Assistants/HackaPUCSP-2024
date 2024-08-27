@@ -63,7 +63,7 @@ The competition culminated on March 1st, showcasing remarkable teamwork and crea
 For more details about the competition, please check out the [PUC Journal](link) and [PUC TV](link).
 
 
-## 🏆 Winning Team
+## 🏆 Our Champion Team
 
 - [Bárbara Melo]( https://github.com/BarbaraMelo2928)    <!-- *(3° semestre)*  --> <br>
     
