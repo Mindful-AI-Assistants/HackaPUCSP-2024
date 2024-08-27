@@ -54,6 +54,23 @@
 
  <br><br>  
 
+---
+
+## Table of Contents
+1. [HackaPUCSP](#hackapucsp)
+2. [Motivation](#motivation)
+3. [TEDE](#tede)
+4. [Datas and Dataset](#datas-and-dataset)
+5. [Search Strings](#search-strings)
+6. [Anonymization](#anonymization)
+7. [Evaluation](#evaluation)
+8. [Codes and Data Analysis Report](#codes-and-data-analysis-report)
+9. [Our Champion Team](#our-champion-team)
+10. [Contribution](#contribution)
+11. [Spread the Word!](#spread-the-word)
+12. [Main Contributors](#main-contributors)
+ 
+
 ## 👨‍💻 HackaPUCSP
 
 **HackaPUCSP** iHackaPUCSP is an innovative hackathon that took place during the first week of the 2024 academic year, uniting students from the Data Science and Artificial Intelligence program at PUC-SP to tackle global challenges. In this second edition, teams from various semesters, ranging from the first to the seventh, collaborated to address innovative challenges.
