@@ -108,7 +108,7 @@ The data was collected from TEDE with personal information removed to ensure pri
 This project was assessed based on the process, performance, creativity of the solution, findings, and communication and presentation skills.
 
 
-## 🔗 [Codes and Data Analysis Report]()
+## 🔗 Codes and [Data Analysis Report]()
 
 
 📌 [Data Analysis Report](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/blob/820c159b2795d69a550a18d50aa9c35a611638dc/Codes%20and%20Data%20Analysis%20Report/Code/Data%20Analysis%20Report/Data%20Analysis%20Report%20.pdf) 
@@ -119,7 +119,6 @@ This project was assessed based on the process, performance, creativity of the s
 
 🐍 [3_Refactored_Test_Code](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/blob/6ea6d6850059bb4a6cb3649dea6800ce13a76a55/Codes%20and%20Data%20Analysis%20Report/Code/Data%20Analysis%20Report/HackaPUCSP%20Codes/3_Refactored_Test_Code.py)
 
-<br>
 
 ## :octocat: Our Team - Group 5: 
 
