@@ -64,7 +64,7 @@ For more details about the competition, please check out the [PUC Journal](link)
 
 <br><br>  
 
-## 🏆 [Winning Team]()
+## 🏆 Winning [Team]()
 
 - [Bárbara Melo]( https://github.com/BarbaraMelo2928)    <!-- *(3° semestre)*  --> <br>
     
