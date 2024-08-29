@@ -68,11 +68,6 @@
 10. [Contribution](#contribution)
 11. [Spread the Word!](#spread-the-word)
 12. [Main Contributors](#main-contributors)
-13. - [Contribuição](#contribuição)
-- [Espalhe a Palavra!](#espalhe-a-palavra)
-- [Principais Contribuidores](#principais-contribuidores)
-- [Começando](#começando)
-
  
 
 ## 👨‍💻 HackaPUCSP
