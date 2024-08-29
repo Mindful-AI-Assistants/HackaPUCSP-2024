@@ -80,9 +80,17 @@ Este projeto foca na pesquisa universitária do curso de Graduação em Ciência
 
 TEDE, ou Repositório Digital de Teses e Dissertações Acadêmicas, é uma plataforma digital que abriga trabalhos acadêmicos da PUC-SP (Pontifícia Universidade Católica de São Paulo). É um recurso valioso para quem está interessado na pesquisa e produção acadêmica da universidade. O repositório inclui uma ampla gama de materiais, como dissertações, teses e trabalhos de conclusão de curso. Você pode visitar o site em [tede.pucsp.br](http://tede.pucsp.br). Por favor, note que alguns materiais podem exigir credenciais de login para acesso.
 
+
 ## 📊 Dados e Conjunto de Dados
 
-Os dados para este projeto foram extraídos do TEDE e incluem títulos, resumos, palavras-chave e outros metadados de mais de 1.000 trabalhos acadêmicos, cobrindo vários temas relevantes para a sustentabilidade.
+Os dados para este projeto foram extraídos do TEDE e incluem títulos, resumos, palavras-chave e outros metadados de milharers trabalhos acadêmicos, cobrindo vários temas relevantes para a sustentabilidade.
+
+## 🔍 Strings de Pesquisa
+
+Strings de pesquisa são ferramentas de filtragem que ajudam a identificar e classificar textos acadêmicos em relação aos Objetivos de Desenvolvimento Sustentável (ODS). Os ODS são um conjunto de 17 metas globais estabelecidas pelas Nações Unidas em 2015 para enfrentar desafios sociais, econômicos e ambientais críticos até 2030. Essas metas visam promover paz, prosperidade e sustentabilidade, abrangendo áreas como redução da pobreza, educação, igualdade de gênero, água limpa e ação climática.
+
+
+
 
 
 ## 🏆 Avaliação
