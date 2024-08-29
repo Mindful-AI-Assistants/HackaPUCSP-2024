@@ -56,12 +56,12 @@
 5- [Strings de Pesquisa](#strings-de-pesquisa)
 6- [Anonimização](#anonimização)
 7- [Avaliação](#avaliação)
-- [Códigos e Relatório de Análise de Dados](#códigos-e-relatório-de-análise-de-dados)
-- [Nossa Equipe Campeã](#nossa-equipe-campeã)
-- [Contribuição](#contribuição)
-- [Espalhe a Palavra!](#espalhe-a-palavra)
-- [Principais Contribuidores](#principais-contribuidores)
-- [Começando](#começando)
+8- [Códigos e Relatório de Análise de Dados](#códigos-e-relatório-de-análise-de-dados)
+9- [Nossa Equipe Campeã](#nossa-equipe-campeã)
+10- [Contribuição](#contribuição)
+11- [Espalhe a Palavra!](#espalhe-a-palavra)
+12- [Principais Contribuidores](#principais-contribuidores)
+13- [Começando](#começando)
 
 
 
