@@ -91,16 +91,8 @@ Este projeto será avaliado com base no processo, desempenho, criatividade da so
 
 
  #
-  <!--  START FOOTER  --> 
- <br>
-
-<p align="center">  
-<img src="https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/eb39e4c8-095c-49c1-8f79-487cb5754360" width="200" />
-</p>
- <!--  END FOOTER  --> 
-
-
-#
+  
+ <!--  END FOOTER  -->
  <br>
 
 ### <p align="center"> [![Sponsor MindfulAI Copilots & Bots](https://img.shields.io/badge/Sponsor-MindfulAI%20Copilots%20%26%20Bots-brightgreen?logo=GitHub)](https://github.com/sponsors/MindfulAI-Copilots-Bots) <br><br>
