@@ -57,14 +57,11 @@
 
 ## Table of Contents
 
-1- [HackaPUCSP](#hackapucsp)
-2- [Motivation](#motivation)
-3- [TEDE](#tede)
-
-6. 
-7. [Datas and Dataset](#datas-and-dataset)
-8. 
-9. [Search Strings](#search-strings)
+1. HackaPUCSP](#hackapucsp)
+2. [Motivation](#motivation)
+3. [TEDE](#tede)
+4. [Datas and Dataset](#datas-and-dataset) 
+5. [Search Strings](#search-strings)
 10. [Anonymization](#anonymization)
 11. [Evaluation](#evaluation)
 12. [Codes and Data Analysis Report](#codes-and-data-analysis-report)
