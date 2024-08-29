@@ -90,7 +90,9 @@ Os dados para este projeto foram extraídos do TEDE e incluem títulos, resumos,
 Strings de pesquisa são ferramentas de filtragem que ajudam a identificar e classificar textos acadêmicos em relação aos Objetivos de Desenvolvimento Sustentável (ODS). Os ODS são um conjunto de 17 metas globais estabelecidas pelas Nações Unidas em 2015 para enfrentar desafios sociais, econômicos e ambientais críticos até 2030. Essas metas visam promover paz, prosperidade e sustentabilidade, abrangendo áreas como redução da pobreza, educação, igualdade de gênero, água limpa e ação climática.
 
 
+## 🕵️‍♀️ Anonimização
 
+Os dados foram coletados do TEDE com informações pessoais removidas para garantir a privacidade.
 
 
 ## 🏆 Avaliação
