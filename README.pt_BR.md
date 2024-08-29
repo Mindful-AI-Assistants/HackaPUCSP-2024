@@ -1,4 +1,4 @@
-######  \[**[🇧🇷Português](README.pt_BR.md)**\] \[[🇺🇸English](README.md)\]
+10######  \[**[🇧🇷Português](README.pt_BR.md)**\] \[[🇺🇸English](README.md)\]
 
 
  <!--  FINAL ARTS OPTIONS   -->
@@ -58,7 +58,7 @@
 7. [Avaliação](#avaliação)
 8. [Códigos e Relatório de Análise de Dados](#códigos-e-relatório-de-análise-de-dados)
 9. [Nossa Equipe Campeã](#nossa-equipe-campeã)
-   . [Contribuição](#contribuição)
+10. [Contribuição](#contribuição)
 
 11- [Espalhe a Palavra!](#espalhe-a-palavra)
 
