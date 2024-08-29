@@ -49,9 +49,8 @@
 
  ## Índice
 
-1- [HackaPUCSP](#hackapucsp)
-
-2- [Motivação](#motivação)
+1. [HackaPUCSP](#hackapucsp)
+2. [Motivação](#motivação)
 
 3- [TEDE](#tede)
 
