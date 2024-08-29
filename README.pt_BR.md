@@ -57,10 +57,8 @@
 6.  [Anonimização](#anonimização)
 7. [Avaliação](#avaliação)
 8. [Códigos e Relatório de Análise de Dados](#códigos-e-relatório-de-análise-de-dados)
-
-9- [Nossa Equipe Campeã](#nossa-equipe-campeã)
-
-10- [Contribuição](#contribuição)
+9. [Nossa Equipe Campeã](#nossa-equipe-campeã)
+   . [Contribuição](#contribuição)
 
 11- [Espalhe a Palavra!](#espalhe-a-palavra)
 
