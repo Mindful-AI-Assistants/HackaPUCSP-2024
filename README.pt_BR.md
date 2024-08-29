@@ -67,7 +67,7 @@
 
 HackaPUCSP é um hackathon inovador que ocorreu durante a primeira semana do ano letivo de 2024, unindo estudantes do programa de Ciência de Dados e Inteligência Artificial da PUC-SP para enfrentar desafios globais. Nesta segunda edição, equipes de vários semestres, desde o primeiro até o sétimo, colaboraram para abordar desafios inovadores.
 
-A 
+A competição culminou em 1º de março, exibindo um trabalho em equipe e criatividade notáveis. A equipe vencedora, composta por estudantes de diferentes semestres, se destacou ao abordar questões relacionadas aos Objetivos de Desenvolvimento Sustentável (ODS) das Nações Unidas. Este evento proporcionou uma oportunidade única para os participantes aplicarem seus conhecimentos em Ciência de Dados e Inteligência Artificial a desafios reais de sustentabilidade
 
 Para mais informações sobre o campeonato, você pode acessar o [Jornal da PUC](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp) e a [TV PUC](https://youtu.be/g0D9a6Faa-s?si=4L4Rj0ZPGJSKzBFg).
 
