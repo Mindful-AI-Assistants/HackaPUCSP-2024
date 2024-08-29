@@ -75,6 +75,11 @@ Para mais informações sobre o campeonato, você pode acessar o [Jornal da PUC]
 
 Este projeto foca na pesquisa universitária do curso de Graduação em Ciência de Dados e Inteligência Artificial da PUC-SP, especificamente voltado para os Objetivos de Desenvolvimento Sustentável (ODS). Nosso objetivo é promover soluções inovadoras para desafios globais através de esforços colaborativos. <br><br>
 
+
+## 📚 TEDE
+
+TEDE, ou Repositório Digital de Teses e Dissertações Acadêmicas, é uma plataforma digital que abriga trabalhos acadêmicos da PUC-SP (Pontifícia Universidade Católica de São Paulo). É um recurso valioso para quem está interessado na pesquisa e produção acadêmica da universidade. O repositório inclui uma ampla gama de materiais, como dissertações, teses e trabalhos de conclusão de curso. Você pode visitar o site em [tede.pucsp.br](http://tede.pucsp.br). Por favor, note que alguns materiais podem exigir credenciais de login para acesso.
+
 ## 🏆 Avaliação
 
 Este projeto será avaliado com base no processo, desempenho, criatividade da solução, descobertas e habilidades de comunicação e apresentação.<br><br>
