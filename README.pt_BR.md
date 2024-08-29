@@ -73,7 +73,7 @@ Para mais informações sobre o campeonato, você pode acessar o [Jornal da PUC]
 
 ## 💡 Motivação
 
-Este projeto concentra-se na pesquisa universitária da Graduação em Ciência de Dados e Inteligência Artificial da Pontifícia Universidade Católica de São Paulo sobre os Objetivos de Desenvolvimento Sustentável (ODS), visando promover soluções inovadoras para desafios globais. <br><br>
+Este projeto foca na pesquisa universitária do curso de Graduação em Ciência de Dados e Inteligência Artificial da PUC-SP, especificamente voltado para os Objetivos de Desenvolvimento Sustentável (ODS). Nosso objetivo é promover soluções inovadoras para desafios globais através de esforços colaborativos. <br><br>
 
 ## 🏆 Avaliação
 
