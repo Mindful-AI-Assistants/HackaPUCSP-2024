@@ -57,11 +57,11 @@
 
 ## Table of Contents
 
-1. [HackaPUCSP](#hackapucsp)
-2. 
-3. [Motivation](#motivation)
-4. 
-5. [TEDE](#tede)
+1- [HackaPUCSP](#hackapucsp)
+
+2- [Motivation](#motivation)
+
+3- [TEDE](#tede)
 6. 
 7. [Datas and Dataset](#datas-and-dataset)
 8. 
