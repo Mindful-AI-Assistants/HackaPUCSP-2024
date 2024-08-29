@@ -50,17 +50,29 @@
  ## Índice
 
 1- [HackaPUCSP](#hackapucsp)
+
 2- [Motivação](#motivação)
+
 3- [TEDE](#tede)
+
 4- [Dados e Conjunto de Dados](#dados-e-conjunto-de-dados)
+
 5- [Strings de Pesquisa](#strings-de-pesquisa)
+
 6- [Anonimização](#anonimização)
+
 7- [Avaliação](#avaliação)
+
 8- [Códigos e Relatório de Análise de Dados](#códigos-e-relatório-de-análise-de-dados)
+
 9- [Nossa Equipe Campeã](#nossa-equipe-campeã)
+
 10- [Contribuição](#contribuição)
+
 11- [Espalhe a Palavra!](#espalhe-a-palavra)
+
 12- [Principais Contribuidores](#principais-contribuidores)
+
 13- [Começando](#começando)
 
 
