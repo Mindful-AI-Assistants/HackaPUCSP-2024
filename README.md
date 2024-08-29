@@ -65,10 +65,10 @@
 6. [Anonymization](#anonymization)
 7. [Evaluation](#evaluation)
 8. [Codes and Data Analysis Report](#codes-and-data-analysis-report)
-13. [Our Champion Team](#our-champion-team)
-14. [Contribution](#contribution)
-15. [Spread the Word!](#spread-the-word)
-16. [Main Contributors](#main-contributors)
+9. [Our Champion Team](#our-champion-team)
+10. [Contribution](#contribution)
+11. [Spread the Word!](#spread-the-word)
+13. [Main Contributors](#main-contributors)
  
 
 ## 👨‍💻 HackaPUCSP
