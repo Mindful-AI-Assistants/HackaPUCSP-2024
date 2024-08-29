@@ -1,12 +1,6 @@
 ######  \[**[🇧🇷Português](README.pt_BR.md)**\] \[[🇺🇸English](README.md)\]
 
 
-# Índice
-- [HackaPUCSP](#hackapucsp)
-
-
-
-
 
  <!--  FINAL ARTS OPTIONS   -->
 
