@@ -52,13 +52,13 @@
 
  ## Índice
 
-- [HackaPUCSP](#hackapucsp)
-- [Motivação](#motivação)
-- [TEDE](#tede)
-- [Dados e Conjunto de Dados](#dados-e-conjunto-de-dados)
+1- [HackaPUCSP](#hackapucsp)
+2- [Motivação](#motivação)
+3- [TEDE](#tede)
+4- [Dados e Conjunto de Dados](#dados-e-conjunto-de-dados)
 - [Strings de Pesquisa](#strings-de-pesquisa)
 - [Anonimização](#anonimização)
-- - [Avaliação](#avaliação)
+- [Avaliação](#avaliação)
 - [Códigos e Relatório de Análise de Dados](#códigos-e-relatório-de-análise-de-dados)
 - [Nossa Equipe Campeã](#nossa-equipe-campeã)
 - - [Contribuição](#contribuição)
