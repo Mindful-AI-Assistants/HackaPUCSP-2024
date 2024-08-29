@@ -61,6 +61,11 @@
 - - [Avaliação](#avaliação)
 - [Códigos e Relatório de Análise de Dados](#códigos-e-relatório-de-análise-de-dados)
 - [Nossa Equipe Campeã](#nossa-equipe-campeã)
+- - [Contribuição](#contribuição)
+- [Espalhe a Palavra!](#espalhe-a-palavra)
+- [Principais Contribuidores](#principais-contribuidores)
+- [Começando](#começando)
+
 
 
 
