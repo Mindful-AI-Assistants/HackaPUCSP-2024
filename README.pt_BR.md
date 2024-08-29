@@ -51,10 +51,8 @@
 
 1. [HackaPUCSP](#hackapucsp)
 2. [Motivação](#motivação)
-
-3- [TEDE](#tede)
-
-4- [Dados e Conjunto de Dados](#dados-e-conjunto-de-dados)
+3. [TEDE](#tede)
+4. [Dados e Conjunto de Dados](#dados-e-conjunto-de-dados)
 
 5- [Strings de Pesquisa](#strings-de-pesquisa)
 
