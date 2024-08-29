@@ -1,10 +1,7 @@
 ######  \[**[🇧🇷Português](README.pt_BR.md)**\] \[[🇺🇸English](README.md)\]
 
 
-
  <!--  FINAL ARTS OPTIONS   -->
-
-
  <!--  * 1. CDIA & Mascote Options *  -->
 
 <!-- ![Icon_mascote_YELLOW](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/6ce1bcd2-b748-421a-b638-8ea773944540)  -->
@@ -56,12 +53,12 @@
 2- [Motivação](#motivação)
 3- [TEDE](#tede)
 4- [Dados e Conjunto de Dados](#dados-e-conjunto-de-dados)
-- [Strings de Pesquisa](#strings-de-pesquisa)
-- [Anonimização](#anonimização)
-- [Avaliação](#avaliação)
+5- [Strings de Pesquisa](#strings-de-pesquisa)
+6- [Anonimização](#anonimização)
+7- [Avaliação](#avaliação)
 - [Códigos e Relatório de Análise de Dados](#códigos-e-relatório-de-análise-de-dados)
 - [Nossa Equipe Campeã](#nossa-equipe-campeã)
-- - [Contribuição](#contribuição)
+- [Contribuição](#contribuição)
 - [Espalhe a Palavra!](#espalhe-a-palavra)
 - [Principais Contribuidores](#principais-contribuidores)
 - [Começando](#começando)
@@ -93,7 +90,7 @@ Este projeto será avaliado com base no processo, desempenho, criatividade da so
 
 ## :octocat: Our Team - Group 5: 
 
-- [Bárbara Melo]( https://github.com/BarbaraMelo2928) -  *(3° semestre)* <br>   
+- [Bárbara Melo](https://github.com/BarbaraMelo2928) -  *(3° semestre)* <br>   
 - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari) - *(1° semestre)* <br>
 - [Gustavo Muriano]() - 1° semestre <br>
 - [Henrique Araujo](https://github.com/skRichsk) -  *(3° semestre)* <br>
