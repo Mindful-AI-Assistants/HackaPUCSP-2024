@@ -53,10 +53,8 @@
 2. [Motivação](#motivação)
 3. [TEDE](#tede)
 4. [Dados e Conjunto de Dados](#dados-e-conjunto-de-dados)
-
-5- [Strings de Pesquisa](#strings-de-pesquisa)
-
-6- [Anonimização](#anonimização)
+5. [Strings de Pesquisa](#strings-de-pesquisa)
+6.  [Anonimização](#anonimização)
 
 7- [Avaliação](#avaliação)
 
