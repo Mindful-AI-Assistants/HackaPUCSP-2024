@@ -58,6 +58,10 @@
 - [Dados e Conjunto de Dados](#dados-e-conjunto-de-dados)
 - [Strings de Pesquisa](#strings-de-pesquisa)
 - [Anonimização](#anonimização)
+- - [Avaliação](#avaliação)
+- [Códigos e Relatório de Análise de Dados](#códigos-e-relatório-de-análise-de-dados)
+- [Nossa Equipe Campeã](#nossa-equipe-campeã)
+
 
 
 
