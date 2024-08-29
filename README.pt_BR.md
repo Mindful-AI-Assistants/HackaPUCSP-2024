@@ -73,11 +73,6 @@
 
 12- [Principais Contribuidores](#principais-contribuidores)
 
-13- [Começando](#começando)
-
-
-
-
 
 ## 👨‍💻 HackaPUCSP
 
