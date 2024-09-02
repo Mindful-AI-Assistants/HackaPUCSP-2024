@@ -73,13 +73,15 @@
 <br>
  
 
-## 👨‍💻 [HackaPUCSP]()
+## 👨‍💻 [HackaPUCSP 2024]()
 
 **HackaPUCSP**  is an innovative hackathon that took place during the first week of the 2024 academic year, uniting students from the Data Science and Artificial Intelligence program at PUC-SP to tackle global challenges. In this second edition, teams from various semesters, ranging from the first to the seventh, collaborated to address innovative challenges.
 
 The competition culminated on March 1st, showcasing remarkable teamwork and creativity. **The winning team**, composed of students across different semesters, excelled in addressing issues related to the United Nations Sustainable Development Goals (SDGs). This event provided a unique opportunity for participants to apply their knowledge in Data Science and Artificial Intelligence to real-world sustainability challenges.
 
 For more details about the competition, please check out the [PUC Journal](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp) and [PUC TV](https://youtu.be/g0D9a6Faa-s?si=Kdo1UE8UFSvLM8cX).
+
+[TV PUC](https://youtu.be/g0D9a6Faa-s?si=4L4Rj0ZPGJSKzBFg).
 
 <br>
 
