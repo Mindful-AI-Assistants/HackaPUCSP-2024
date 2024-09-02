@@ -203,7 +203,7 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
  <!--  START FOOTER  -->
 
-###### <p align="center">Copyright 2024 Mindful-AI-Assistants. Code released under the  [MIT license.](https://github.com/Mindful-AI-Assistants/HackaPUCSP/blob/e671d6bacd850dee6d781276c33ad154088d875d/LICENSE)
+###### <p align="center"> [Copyright 2024 Mindful-AI-Assistants. Code released under the  MIT license.](https://github.com/Mindful-AI-Assistants/HackaPUCSP/blob/e671d6bacd850dee6d781276c33ad154088d875d/LICENSE)
 
 <!--  END FOOTER  --> 
 
