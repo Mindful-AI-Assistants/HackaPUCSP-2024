@@ -38,30 +38,35 @@
 <img src="https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/601663d2-be2e-4e05-88ad-a60c79131071" /> <br>
  <!--  END HEADER  --> 
   
- <br> 
+   
+ <br><br>  
  
 <!--  START MAIN  -->
- ##  <p align="center"> 🏆 HackaPUCSP - Ciência de Dados e Inteligência Artificial 
- 
- #### <p align="center"> 📅 2ª edição | 2024
+## <p align="center"> 🏆 [HackaPUCSP 2024]() - Hackathon de Ciência de Dados e IA - Pontifícia Universidade Católica de São Paulo
+#### <p align="center"> 📅 2ª edição | [2024]()
 
- <br>
+<br>
+
+#### <p align="center"> [![Patrocinador Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+ <br><br>  
+
+
 
  ## Índice
 
-1. [HackaPUCSP](#hackapucsp)
-2. [Motivação](#motivação)
-3. [TEDE](#tede)
-4. [Dados e Conjunto de Dados](#dados-e-conjunto-de-dados)
-5. [Strings de Pesquisa](#strings-de-pesquisa)
-6. [Anonimização](#anonimização)
-7. [Avaliação](#avaliação)
-8. [Códigos e Relatório de Análise de Dados](#códigos-e-relatório-de-análise-de-dados)
-9. [Nossa Equipe Campeã](#nossa-equipe-campeã)
+1.  [HackaPUCSP](#hackapucsp)
+2.  [Motivação](#motivação)
+3.  [TEDE](#tede)
+4.  [Dados e Conjunto de Dados](#dados-e-conjunto-de-dados)
+5.  [Strings de Pesquisa](#strings-de-pesquisa)
+6.  [Anonimização](#anonimização)
+7.  [Avaliação](#avaliação)
+8.  [Códigos e Relatório de Análise de Dados](#códigos-e-relatório-de-análise-de-dados)
+9.  [Nossa Equipe Campeã](#nossa-equipe-campeã)
 10. [Contribuição](#contribuição)
 11. [Espalhe a Palavra!](#espalhe-a-palavra)
 12. [Principais Contribuidoresnesse Repositorio](#principais-contribuidores)
-13. [HackaPUCSP-2024 Certificate](#certificate)
+13. [HackaPUCSP-2024 Certificado](#certificate)
 
 
 ## 👨‍💻 HackaPUCSP
