@@ -1,10 +1,20 @@
 {
-  "name": "demo-repo",
-  "version": "0.2.0",
-  "description": "A sample package.json",
-  "dependencies": {
-    "@primer/css": "21.1.1"
+  "name": "HackaPUCSP",
+  "version": "1.0.0",
+  "description": "Descrição do seu projeto",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "webpack"
   },
-  "license": "MIT"
+  "author": "Fabiana Campanari",
+  "license": "MIT",
+  "dependencies": {
+    "pacote1": "^1.0.0",
+    "pacote2": "^2.0.0"
+  },
+  "devDependencies": {
+    "pacote-dev1": "^1.0.0",
+    "pacote-dev2": "^2.0.0"
+  }
 }
-
