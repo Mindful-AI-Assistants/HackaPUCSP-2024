@@ -74,7 +74,7 @@
 <br>
  
 
-## 👨‍💻 HackaPUCSP
+## 👨‍💻 [HackaPUCSP]()
 
 **HackaPUCSP**  is an innovative hackathon that took place during the first week of the 2024 academic year, uniting students from the Data Science and Artificial Intelligence program at PUC-SP to tackle global challenges. In this second edition, teams from various semesters, ranging from the first to the seventh, collaborated to address innovative challenges.
 
@@ -85,7 +85,7 @@ For more details about the competition, please check out the [PUC Journal](https
 <br>
 
 
-## 💡 Motivation
+## 💡 [Motivation]()
 
 This project focuses on university research from the Undergraduate program in Data Science and Artificial Intelligence at PUC-SP, specifically targeting the Sustainable Development Goals (SDGs). Our aim is to promote innovative solutions to global challenges through collaborative efforts.
 
@@ -94,7 +94,7 @@ This project focuses on university research from the Undergraduate in Data Scien
 <br>
 
 
-## 📚 TEDE
+## 📚 [TEDE]()
 
 TEDE, or the Digital Repository of Academic Works, is a digital platform that houses academic works from PUCSP (Pontifical Catholic University of São Paulo). It's a valuable resource for anyone interested in the research and academic output of the university. The repository includes a wide range of materials, such as dissertations, theses, and end-of-course works¹. You can visit the site at [tede.pucsp.br](https://tede.pucsp.br/). Please note that some materials may require login credentials for access. 
 
