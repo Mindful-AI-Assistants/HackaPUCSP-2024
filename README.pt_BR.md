@@ -61,6 +61,7 @@
 10. [Contribuição](#contribuição)
 11. [Espalhe a Palavra!](#espalhe-a-palavra)
 12. [Principais Contribuidoresnesse Repositorio](#principais-contribuidores)
+13. [HackaPUCSP-2024 Certificate](#certificate)
 
 
 ## 👨‍💻 HackaPUCSP
