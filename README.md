@@ -166,6 +166,9 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 ## HackaPUCSP 2024 - Fabiana Campanari Certificate 🚀
 
+![HackaPUC 2024 Certificate Fabiana Campanari](https://github.com/user-attachments/assets/79b6da7f-e37b-4db2-99e7-ffe6391f8bf2)
+
+
 
  #
 
