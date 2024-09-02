@@ -77,7 +77,7 @@
 
 The competition culminated on March 1st, showcasing remarkable teamwork and creativity. **The winning team**, composed of students across different semesters, excelled in addressing issues related to the United Nations Sustainable Development Goals (SDGs). This event provided a unique opportunity for participants to apply their knowledge in Data Science and Artificial Intelligence to real-world sustainability challenges.
 
-For more details about the competition, please check out the [PUC Journal](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp) and [PUC TV](link).
+For more details about the competition, please check out the [PUC Journal](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp) and [PUC TV](https://youtu.be/g0D9a6Faa-s?si=Kdo1UE8UFSvLM8cX).
 
 
 ## 💡 Motivation
