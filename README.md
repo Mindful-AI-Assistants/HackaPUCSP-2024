@@ -100,40 +100,40 @@ TEDE, or the Digital Repository of Academic Works, is a digital platform that ho
 
 <br>
 
-## 📊 Datas and Dataset
+## 📊 [Datas and Dataset]()
 
 The data for this project was extracted from TEDE and includes titles, abstracts, keywords, and other metadata from over 1,000 academic works, covering various themes relevant to sustainability.
 
 <br>
 
-## 🔍 Search Strings
+## 🔍 [Search Strings]()
 
 Search strings are filtering tools that help identify and classify academic texts in relation to the **Sustainable Development Goals (SDGs)**. The SDGs are a set of 17 global goals established by the United Nations in 2015 to address critical social, economic, and environmental challenges by 2030. These goals aim to promote peace, prosperity, and sustainability, covering areas such as poverty reduction, education, gender equality, clean water, and climate action. 
 
 <br>
 
-## 🔍 Search Strings
+## 🔍 [Search Strings]()
 
 Search strings are filtering tools that help identify and categorize academic texts related to the Sustainable Development Goals (SDGs). The SDGs are a set of 17 global goals established by the United Nations in 2015 to tackle critical social, economic, and environmental challenges by 2030. These goals aim to promote peace, prosperity, and sustainability, covering areas like poverty reduction, education, gender equality, clean water, and climate action.
 
 <br>
 
 
-## 🕵️‍♀️ Anonymization
+## 🕵️‍♀️ [Anonymization]()
 
 The data was collected from TEDE with personal information removed to ensure privacy.
 
 <br>
 
 
-## 🏆 Evaluation
+## 🏆 [Evaluation]()
 
 This project was assessed based on the process, performance, creativity of the solution, findings, and communication and presentation skills.
 
 <br>
 
 
-## 🔗 Codes and Data Analysis Report
+## 🔗 [Codes and Data Analysis Report]()
 
 
 - 📌 [Data Analysis Report](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/blob/820c159b2795d69a550a18d50aa9c35a611638dc/Codes%20and%20Data%20Analysis%20Report/Code/Data%20Analysis%20Report/Data%20Analysis%20Report%20.pdf) 
@@ -146,7 +146,7 @@ This project was assessed based on the process, performance, creativity of the s
 
 <br>
 
-## 🏆 Our Champion Team - Group 5: 
+## 🏆 [Our Champion Team - Group 5](): 
 
 - [Bárbara Melo]( https://github.com/BarbaraMelo2928)  -  *(3° semester)* <br>
 - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari) - *(1° semester)* <br>
@@ -160,8 +160,8 @@ This project was assessed based on the process, performance, creativity of the s
 
 <br>
 
- 
-## Contribution
+
+## [Contribution]()
 
 Any contributions are highly appreciated.  You can contribute in two ways:
 
@@ -169,10 +169,10 @@ Any contributions are highly appreciated.  You can contribute in two ways:
 
    2. Fork the project and submit a full requesto with your new idea. Before doing that, please make sure that you read and follow the [Contributions Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹[★]()🔭๋
 
+
 <br>
 
-
-## Spread the word! 🌎💙
+## [Spread the word!]() 🌎🤍
 
 If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too! Together we can grow and make our community better! 
 
@@ -180,14 +180,14 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 <br>
 
-## Main Contributors on this Repo
+## [Main Contributors on this Repo]()
 
 #### - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
 <br>
 
 
-## HackaPUCSP 2024 - Fabiana Campanari Certificate 🚀
+## [HackaPUCSP 2024 - Fabiana Campanari Certificate]() 🚀
 
 <br>
 
