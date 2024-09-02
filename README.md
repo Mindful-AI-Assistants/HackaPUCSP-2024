@@ -81,8 +81,6 @@ The competition culminated on March 1st, showcasing remarkable teamwork and crea
 
 For more details about the competition, please check out the [PUC Journal](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp) and [PUC TV](https://youtu.be/g0D9a6Faa-s?si=Kdo1UE8UFSvLM8cX).
 
-[TV PUC](https://youtu.be/g0D9a6Faa-s?si=4L4Rj0ZPGJSKzBFg).
-
 <br>
 
 
