@@ -130,15 +130,15 @@ This project was assessed based on the process, performance, creativity of the s
 
 ## 🏆 Our Champion Team - Group 5: 
 
-- [Bárbara Melo]( https://github.com/BarbaraMelo2928)  -  *(3° semestre)* <br>
+- [Bárbara Melo]( https://github.com/BarbaraMelo2928)  -  *(3° semester)* <br>
     
 - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari) - *(1° semestre)* <br>
-- [Gustavo Muriano]() - 1° semestre <br>
+- [Gustavo Muriano]() - *(1° semestre)* <br>
 - [Henrique Araujo](https://github.com/skRichsk) -  *(3° semestre)* <br>
 - [Juliana Soares](https://github.com/julianamiranda1) -  *(3° semestre)* <br>
-- [Leonardo Xerez]() - 1° semestre <br>
+- [Leonardo Xerez]() -  *(1° semestre)* <br>
 - [Luan Fabiano](https://github.com/LuanFabiano28) -  *(1° semestre)* <br>
-- [Pedro Gallego Barenco](https://github.com/Pgbarenco) - 1° semestre <br>
+- [Pedro Gallego Barenco](https://github.com/Pgbarenco) - *(1° semestre)* <br>
 - [Rebecca Campos](https://github.com/becamparezzo) -  *(3° semestre)* <br>
 
  
