@@ -1,15 +1,9 @@
 {
-  "name": "HackaPUCSP",
-  "version": "1.0.0",
-  "description": "Descrição do seu projeto",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "build": "webpack"
+  "name": "demo-repo",
+  "version": "0.2.0",
+  "description": "A sample package.json",
+  "dependencies": {
+    "@primer/css": "21.1.1"
   },
-  "author": "Fabiana Campanari",
-  "license": "MIT",
-  "devDependencies": {
-    "pacote-dev1": "devcontainers/ci@v0.3",
-  }
-
+  "license": "MIT"
+}
