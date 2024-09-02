@@ -86,12 +86,9 @@ For more details about the competition, please check out the [PUC Journal](https
 
 ## 💡 [Motivation]()
 
-This project focuses on university research from the Undergraduate program in Data Science and Artificial Intelligence at PUC-SP, specifically targeting the Sustainable Development Goals (SDGs). Our aim is to promote innovative solutions to global challenges through collaborative efforts.
-
-This project focuses on university research from the Undergraduate in Data Science and Artificial Intelligence at the Pontifical Catholic University of São Paulo on the Sustainable Development Goals (SDGs), aiming to promote innovative solutions to global challenges. 
+This project focuses on the undergraduate research in Data Science and Artificial Intelligence at PUC-SP, with a focus on the Sustainable Development Goals (SDGs), aiming to promote innovative solutions for global challenges. 
 
 <br>
-
 
 ## 📚 [TEDE]()
 
