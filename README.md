@@ -161,7 +161,7 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 ## Main Contributors on this Repo
 
-- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+### - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
 
 ## HackaPUCSP 2024 - Fabiana Campanari Certificate 🚀
