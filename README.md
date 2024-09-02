@@ -70,6 +70,8 @@
 11. [Spread the Word!](#spread-the-word)
 12. [Main Contributors](#main-contributors)
 13. [HackaPUCSP-2024 Certificate](#certificate)
+
+<br>
  
 
 ## 👨‍💻 HackaPUCSP
@@ -80,6 +82,8 @@ The competition culminated on March 1st, showcasing remarkable teamwork and crea
 
 For more details about the competition, please check out the [PUC Journal](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp) and [PUC TV](https://youtu.be/g0D9a6Faa-s?si=Kdo1UE8UFSvLM8cX).
 
+<br>
+
 
 ## 💡 Motivation
 
@@ -87,33 +91,46 @@ This project focuses on university research from the Undergraduate program in Da
 
 This project focuses on university research from the Undergraduate in Data Science and Artificial Intelligence at the Pontifical Catholic University of São Paulo on the Sustainable Development Goals (SDGs), aiming to promote innovative solutions to global challenges. 
 
+<br>
+
 
 ## 📚 TEDE
 
 TEDE, or the Digital Repository of Academic Works, is a digital platform that houses academic works from PUCSP (Pontifical Catholic University of São Paulo). It's a valuable resource for anyone interested in the research and academic output of the university. The repository includes a wide range of materials, such as dissertations, theses, and end-of-course works¹. You can visit the site at [tede.pucsp.br](https://tede.pucsp.br/). Please note that some materials may require login credentials for access. 
 
+<br>
 
 ## 📊 Datas and Dataset
 
 The data for this project was extracted from TEDE and includes titles, abstracts, keywords, and other metadata from over 1,000 academic works, covering various themes relevant to sustainability.
 
+<br>
+
 ## 🔍 Search Strings
 
 Search strings are filtering tools that help identify and classify academic texts in relation to the **Sustainable Development Goals (SDGs)**. The SDGs are a set of 17 global goals established by the United Nations in 2015 to address critical social, economic, and environmental challenges by 2030. These goals aim to promote peace, prosperity, and sustainability, covering areas such as poverty reduction, education, gender equality, clean water, and climate action. 
 
+<br>
+
 ## 🔍 Search Strings
 
 Search strings are filtering tools that help identify and categorize academic texts related to the Sustainable Development Goals (SDGs). The SDGs are a set of 17 global goals established by the United Nations in 2015 to tackle critical social, economic, and environmental challenges by 2030. These goals aim to promote peace, prosperity, and sustainability, covering areas like poverty reduction, education, gender equality, clean water, and climate action.
+
+<br>
 
 
 ## 🕵️‍♀️ Anonymization
 
 The data was collected from TEDE with personal information removed to ensure privacy.
 
+<br>
+
 
 ## 🏆 Evaluation
 
 This project was assessed based on the process, performance, creativity of the solution, findings, and communication and presentation skills.
+
+<br>
 
 
 ## 🔗 Codes and Data Analysis Report
@@ -127,11 +144,11 @@ This project was assessed based on the process, performance, creativity of the s
 
 - 🐍 [3_Refactored_Test_Code](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/blob/6ea6d6850059bb4a6cb3649dea6800ce13a76a55/Codes%20and%20Data%20Analysis%20Report/Code/Data%20Analysis%20Report/HackaPUCSP%20Codes/3_Refactored_Test_Code.py)
 
+<br>
 
 ## 🏆 Our Champion Team - Group 5: 
 
 - [Bárbara Melo]( https://github.com/BarbaraMelo2928)  -  *(3° semester)* <br>
-    
 - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari) - *(1° semester)* <br>
 - [Gustavo Muriano]() - *(1° semestre)* <br>
 - [Henrique Araujo](https://github.com/skRichsk) -  *(3° semester)* <br>
@@ -140,6 +157,8 @@ This project was assessed based on the process, performance, creativity of the s
 - [Luan Fabiano](https://github.com/LuanFabiano28) -  *(1° semester)* <br>
 - [Pedro Gallego Barenco](https://github.com/Pgbarenco) - *(1° semester)* <br>
 - [Rebecca Campos](https://github.com/becamparezzo) -  *(3° semester)* <br>
+
+<br>
 
  
 ## Contribution
@@ -150,6 +169,7 @@ Any contributions are highly appreciated.  You can contribute in two ways:
 
    2. Fork the project and submit a full requesto with your new idea. Before doing that, please make sure that you read and follow the [Contributions Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹[★]()🔭๋
 
+<br>
 
 
 ## Spread the word! 🌎💙
@@ -158,10 +178,13 @@ If the information from this repo was useful to you in any way, make sure you gi
 
 Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback
 
+<br>
 
 ## Main Contributors on this Repo
 
 #### - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+
+<br>
 
 
 ## HackaPUCSP 2024 - Fabiana Campanari Certificate 🚀
