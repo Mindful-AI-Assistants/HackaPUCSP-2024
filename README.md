@@ -100,10 +100,9 @@ The data for this project was extracted from TEDE and includes titles, abstracts
 
 Search strings are filtering tools that help identify and classify academic texts in relation to the **Sustainable Development Goals (SDGs)**. The SDGs are a set of 17 global goals established by the United Nations in 2015 to address critical social, economic, and environmental challenges by 2030. These goals aim to promote peace, prosperity, and sustainability, covering areas such as poverty reduction, education, gender equality, clean water, and climate action. 
 
-## 🔍 Strings de Pesquisa
+## 🔍 Search Strings
 
-Strings de pesquisa são ferramentas de filtragem que ajudam a identificar e classificar textos acadêmicos em relação aos Objetivos de Desenvolvimento Sustentável (ODS). Os ODS são um conjunto de 17 metas globais estabelecidas pelas Nações Unidas em 2015 para enfrentar desafios sociais, econômicos e ambientais críticos até 2030. Essas metas visam promover paz, prosperidade e sustentabilidade, abrangendo áreas como redução da pobreza, educação, igualdade de gênero, água limpa e ação climática.
-
+Search strings are filtering tools that help identify and categorize academic texts related to the Sustainable Development Goals (SDGs). The SDGs are a set of 17 global goals established by the United Nations in 2015 to tackle critical social, economic, and environmental challenges by 2030. These goals aim to promote peace, prosperity, and sustainability, covering areas like poverty reduction, education, gender equality, clean water, and climate action.
 
 
 ## 🕵️‍♀️ Anonymization
