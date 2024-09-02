@@ -9,12 +9,7 @@
   },
   "author": "Fabiana Campanari",
   "license": "MIT",
-  "dependencies": {
-    "pacote1": "^1.0.0",
-    "pacote2": "^2.0.0"
-  },
   "devDependencies": {
-    "pacote-dev1": "^1.0.0",
-    "pacote-dev2": "^2.0.0"
+    "pacote-dev1": "devcontainers/ci@v0.3",
   }
-}
+
