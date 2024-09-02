@@ -44,7 +44,7 @@
  <br> 
  
 <!--  START MAIN  -->
- ##  <p align="center"> 🏆 [HackaPUCSP 2024]() - Data Science and AI Hackathon - Pontifical Catholic University of São Pauloo
+ ##  <p align="center"> 🏆 [HackaPUCSP 2024]() - Data Science and AI Hackathon - Pontifical Catholic University of São Paulo
  
  #### <p align="center"> 📅 2nd edition | [2024]()
  
