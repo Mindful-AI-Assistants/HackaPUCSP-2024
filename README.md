@@ -68,7 +68,8 @@
 9. [Our Champion Team](#our-champion-team)
 10. [Contribution](#contribution)
 11. [Spread the Word!](#spread-the-word)
-13. [Main Contributors](#main-contributors)
+12. [Main Contributors](#main-contributors)
+13. [HackaPUCSP Certificate](#certificate)
  
 
 ## 👨‍💻 HackaPUCSP
