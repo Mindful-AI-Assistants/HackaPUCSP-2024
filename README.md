@@ -142,6 +142,8 @@ This project was assessed based on the process, performance, creativity of the s
 
 <br>
 
+![mascot_motion2](https://github.com/user-attachments/assets/881711bd-8f04-4384-bd3f-e5132ea06d21)
+
 ## 🏆 [Our Champion Team - Group 5](): 
 
 - [Bárbara Melo]( https://github.com/BarbaraMelo2928)  -  *(3° semester)* <br>
