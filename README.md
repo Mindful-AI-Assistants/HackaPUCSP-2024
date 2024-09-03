@@ -36,14 +36,14 @@
 
 <br>
 
-  <!--  START HEADER  -->  
+  <!--  START HEADER  
 <p align="center">  
-<img src="https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/601663d2-be2e-4e05-88ad-a60c79131071" /> <br>
+<img src="https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/601663d2-be2e-4e05-88ad-a60c79131071" /> -->  
 
-![f498ef67-5076-47cb-be8d-bab9e730b976](https://github.com/user-attachments/assets/b4fe9bb8-1235-46b0-9c6b-7f873251ce3e)
+<br>
 
-
-
+<p align="center">  
+<img src="https://github.com/user-attachments/assets/b4fe9bb8-1235-46b0-9c6b-7f873251ce3e" />
   
  <!--  END HEADER  --> 
   
