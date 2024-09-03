@@ -145,7 +145,7 @@ This project was assessed based on the process, performance, creativity of the s
 <p align="center">  
 <img src="https://github.com/user-attachments/assets/881711bd-8f04-4384-bd3f-e5132ea06d21" />
 
-<br><br>
+<br>
 
 ## 🏆 [Our Champion Team - Group 5](): 
 
