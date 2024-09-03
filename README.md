@@ -108,12 +108,6 @@ Search strings are filtering tools that help identify and classify academic text
 
 <br>
 
-## 🔍 [Search Strings]()
-
-Search strings are filtering tools that help identify and categorize academic texts related to the Sustainable Development Goals (SDGs). The SDGs are a set of 17 global goals established by the United Nations in 2015 to tackle critical social, economic, and environmental challenges by 2030. These goals aim to promote peace, prosperity, and sustainability, covering areas like poverty reduction, education, gender equality, clean water, and climate action.
-
-<br>
-
 
 ## 🕵️‍♀️ [Anonymization]()
 
