@@ -140,12 +140,12 @@ This project was assessed based on the process, performance, creativity of the s
 
 - 🐍 [3_Refactored_Test_Code](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/blob/6ea6d6850059bb4a6cb3649dea6800ce13a76a55/Codes%20and%20Data%20Analysis%20Report/Code/Data%20Analysis%20Report/HackaPUCSP%20Codes/3_Refactored_Test_Code.py)
 
-<br>
+<br><br>
 
 <p align="center">  
 <img src="https://github.com/user-attachments/assets/881711bd-8f04-4384-bd3f-e5132ea06d21" />
 
-<br>
+<br><br>
 
 ## 🏆 [Our Champion Team - Group 5](): 
 
