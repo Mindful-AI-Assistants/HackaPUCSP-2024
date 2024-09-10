@@ -39,7 +39,7 @@ jobs:
         run: pnpm prettier-fix
 
       - name: Create pull request
-        uses: peter-evans/create-pull-request@0c2a66fe4af462aa0761939bd32efbdd46592737 # v6.0.2
+        uses: peter-evans/create-pull-request@8867c4aba1b742c39f8d0ba35429c2dfa4b6cb20 # v6.0.2
         with:
           author: 'Renovate Bot <renovate@whitesourcesoftware.com>'
           branch: 'chore/update-static-data'
