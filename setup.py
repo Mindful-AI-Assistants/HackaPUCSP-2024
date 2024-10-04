@@ -6,7 +6,7 @@ setup(
     description='hackaton 2024 PUC-SP',  # Breve descrição do seu projeto  
     author='Fabiana campanari',                           # Seu nome ou nome da sua organização  
     author_email='fabicampanari@proton.me',        # Seu e-mail  
-    url='https://github.com/Mindful-AI-Assistants/HackaPUCSP  # URL do repositório do seu projeto  
+    url='https://github.com/Mindful-AI-Assistants/HackaPUCSP'  # URL do repositório do seu projeto  
     packages=find_packages(),                    # Encontra automaticamente pacotes e subpacotes  
     install_requires=[                           # Lista de dependências do seu projeto  
         'dependencia1',                          # Exemplo: 'numpy',  
