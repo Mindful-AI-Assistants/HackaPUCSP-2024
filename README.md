@@ -70,7 +70,7 @@
 7. [Evaluation](#evaluation)
 8. [Codes and Data Analysis Report](#codes-and-data-analysis-report)
 9. [Our Champion Team](#our-champion-team)
-10. [Contribution](#contribution)
+10. [Contribution](#-contribution)
 11. [Spread the Word!](#spread-the-word)
 12. [Main Contributors](#main-contributors)
 13. [HackaPUCSP-2024 Certificate](#certificate)
