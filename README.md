@@ -59,7 +59,6 @@
 
  <br><br>  
 
-
 ## Table of Contents
 
 1. [HackaPUCSP](#hackapucsp)
