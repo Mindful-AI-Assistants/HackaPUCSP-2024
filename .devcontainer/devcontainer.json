@@ -1,35 +1,58 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
+// https://github.com/microsoft/vscode-dev-containers/tree/v0.245.2/containers/ubuntu
 {
-  "name": "Renovate",
+  "name": "Ubuntu",
   "build": {
-    "dockerfile": "Dockerfile"
+    "dockerfile": "Dockerfile",
+    // Update 'VARIANT' to pick an Ubuntu version: jammy / ubuntu-22.04, focal / ubuntu-20.04, bionic /ubuntu-18.04
+    // Use ubuntu-22.04 or ubuntu-18.04 on local arm64/Apple Silicon.
+    "args": {
+      "VARIANT": "ubuntu-22.04"
+    }
   },
-  "init": true,
-  "hostRequirements": {
-    "cpus": 4,
-    "memory": "7gb",
-    "storage": "32gb"
+  // Use 'forwardPorts' to make a list of ports inside the container available locally.
+  // "forwardPorts": [],
+
+  "onCreateCommand": "bash .devcontainer/on-create.sh",
+  // Use 'postCreateCommand' to run commands after the container is created.
+  "postCreateCommand": "bash .devcontainer/post-create.sh",
+  // Comment out to connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
+  "remoteUser": "vscode",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-outside-of-docker": "latest",
+    "ghcr.io/devcontainers/features/github-cli": "latest",
+    "ghcr.io/devcontainers/features/node": "lts",
+    "ghcr.io/devcontainers/features/go": "latest",
+    "ghcr.io/devcontainers/features/ruby": "3.3.1",
+    "ghcr.io/devcontainers/features/rust": "latest",
+    "ghcr.io/devcontainers/features/dotnet": "latest",
+    "ghcr.io/devcontainers/features/sshd:1": {
+      "version": "latest"
+    }
   },
   "customizations": {
     "vscode": {
-      "terminal.integrated.profiles.linux": {
-        "bash": {
-          "path": "bash",
-          "icon": "terminal-bash"
-        }
-      },
       "extensions": [
-        "dbaeumer.vscode-eslint",
-        "esbenp.prettier-vscode",
-        "orta.vscode-jest",
-        "editorconfig.editorconfig",
-        "github.vscode-github-actions"
-      ]
+        "ms-vscode-remote.remote-containers",
+        "rubocop.vscode-rubocop",
+        "shopify.ruby-extensions-pack"
+      ],
+      "settings": {
+        "[ruby]": {
+          "editor.defaultFormatter": "Shopify.ruby-lsp",
+          "editor.formatOnSave": true,
+          "editor.formatOnType": true,
+          "editor.insertSpaces": true,
+          "editor.rulers": [120],
+          "editor.semanticHighlighting.enabled": true,
+          "editor.tabSize": 2,
+          "files.insertFinalNewline": true,
+          "files.trimFinalNewlines": true,
+          "files.trimTrailingWhitespace": true
+        },
+        "rubocop.autocorrect": true,
+        "sorbet.enabled": true
+      }
     }
-  },
-  "postCreateCommand": [".devcontainer/post-create.sh"],
-  // Otherwise jest watcher fails because deps were not installed yet
-  "waitFor": "postCreateCommand"
+  }
 }
-
-# Remote Shell Added
-"ghcr.io/wxw-matt/devcontainer-features/command_runner:0": {}
