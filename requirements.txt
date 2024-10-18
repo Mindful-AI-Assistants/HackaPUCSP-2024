@@ -21,7 +21,7 @@ spacy==3.1.
 
 # Bibliotecas para web scraping
 beautifulsoup4==4.10.0
-requests==2.26.0
+requests==2.32.3
 
 # Bibliotecas para trabalhar com bancos de dados
 sqlalchemy==1.4.23
