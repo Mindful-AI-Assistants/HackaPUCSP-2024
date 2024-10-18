@@ -1,7 +1,6 @@
 # Arquivo de teste para o pytest. Este exemplo inclui várias funções de teste e usa fixtures 
 # do pytest para configuração e limpeza
 
-
 import pytest
 
 # Fixture para configuração e limpeza
