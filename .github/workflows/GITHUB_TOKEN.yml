@@ -1,0 +1,19 @@
+name: Secure Workflow
+
+on: [push]
+
+jobs:
+  secure-job:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read  # Permissão mínima necessária para ler o conteúdo do repositório
+      issues: write   # Permissão para criar ou comentar em issues, se necessário
+      # Adicione outras permissões conforme necessário, sempre com o mínimo necessário
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Run a script
+      run: echo "Hello, world!"
