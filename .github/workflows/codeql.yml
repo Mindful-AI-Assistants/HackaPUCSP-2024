@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       issues: write
-      pull-requests: write
+      pull-requests: ready
 
     steps:
     - uses: actions/stale@v9
