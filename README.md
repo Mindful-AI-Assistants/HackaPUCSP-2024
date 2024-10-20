@@ -150,7 +150,7 @@ This project was assessed based on the process, performance, creativity of the s
 
 - [Bárbara Melo]( https://github.com/BarbaraMelo2928)  -  *(3° semester)* <br>
 - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari) - *(1° semester)* <br>
-- [Gustavo Muriano]() - *(1° semestre)* <br>
+- [Gustavo Muriano](https://github.com/Gustavo-Muriano) - *(1° semestre)* <br>
 - [Henrique Araujo](https://github.com/skRichsk) -  *(3° semester)* <br>
 - [Juliana Soares](https://github.com/julianamiranda1) -  *(3° semester)* <br>
 - [Leonardo Xerez]() -  *(1° semestre)* <br>
