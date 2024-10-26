@@ -49,7 +49,12 @@
 
 #### <p align="center"> [![Patrocinador Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
- <br><br>  
+<br><br>
+
+<p align="center">  
+<img src="https://github.com/user-attachments/assets/881711bd-8f04-4384-bd3f-e5132ea06d21" />
+
+<br>
 
  ## Índice
 
