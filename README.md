@@ -58,7 +58,32 @@
 
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
- <br><br>  
+
+
+
+<!--Confidentiality statement -->
+
+<br><br>
+
+#
+
+
+### ⚠️ Heads Up 
+
+* Projects and deliverables may be made [publicly available]() whenever possible.
+
+* The course prioritizes [**hands-on practice**]() with real data in consulting scenarios.
+
+* All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
+
+* [**Confidential information**]() from this repository remains private in [private repositories]().
+
+#  
+
+<br><br><br>
+
+<!-- End -->
+
 
 ## Table of Contents
 
