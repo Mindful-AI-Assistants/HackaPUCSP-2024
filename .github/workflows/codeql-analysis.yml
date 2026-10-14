@@ -28,7 +28,7 @@ jobs:
       security-events: write
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
       - name: Delete fixtures to suppress false positives
         run: |
           find ./lib -type d -name '__fixtures__' -exec rm -rf {} \; || true
